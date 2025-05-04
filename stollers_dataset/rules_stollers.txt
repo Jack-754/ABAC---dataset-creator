@@ -1,0 +1,267 @@
+{'rule': [('resource_patient', 'oncPat1'), ('user', 'oncNurse1'), ('resource', 'oncPat1oncItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat1'), ('user', 'oncNurse1'), ('resource', 'oncPat1nursingItem'), ('action', 'read')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'oncPat1'), ('user', 'oncNurse1'), ('resource', 'oncPat1nursingItem'), ('action', 'addItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat1'), ('user', 'oncNurse1'), ('resource', 'oncPat1nursingItem'), ('action', 'addNote')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat1'), ('user', 'oncNurse1'), ('resource', 'oncPat1noteItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat1'), ('user', 'oncNurse2'), ('resource', 'oncPat1oncItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat1'), ('user', 'oncNurse2'), ('resource', 'oncPat1nursingItem'), ('action', 'read')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'oncPat1'), ('user', 'oncNurse2'), ('resource', 'oncPat1nursingItem'), ('action', 'addItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat1'), ('user', 'oncNurse2'), ('resource', 'oncPat1nursingItem'), ('action', 'addNote')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat1'), ('user', 'oncNurse2'), ('resource', 'oncPat1noteItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat1'), ('user', 'carNurse1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat1'), ('user', 'carNurse2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat1'), ('user', 'oncDoc1'), ('action', 'read')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat1'), ('user', 'oncDoc1'), ('action', 'addItem'), ('resource', 'oncPat1noteItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat1'), ('user', 'oncDoc1'), ('action', 'addItem'), ('resource', 'oncPat1HR')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'oncPat1'), ('user', 'oncDoc1'), ('action', 'addNote')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat1'), ('user', 'oncDoc2'), ('action', 'read')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat1'), ('user', 'oncDoc2'), ('action', 'addItem'), ('resource', 'oncPat1noteItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat1'), ('user', 'oncDoc2'), ('action', 'addItem'), ('resource', 'oncPat1HR')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'oncPat1'), ('user', 'oncDoc2'), ('action', 'addNote')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat1'), ('user', 'oncDoc3')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat1'), ('user', 'oncDoc4')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat1'), ('user', 'carDoc1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat1'), ('user', 'carDoc2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat1'), ('user', 'anesDoc1'), ('action', 'read')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat1'), ('user', 'anesDoc1'), ('action', 'addItem'), ('resource', 'oncPat1noteItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat1'), ('user', 'anesDoc1'), ('action', 'addItem'), ('resource', 'oncPat1HR')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'oncPat1'), ('user', 'anesDoc1'), ('action', 'addNote')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat1'), ('user', 'doc1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat1'), ('user', 'doc2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncTeam1'), ('user', 'oncNurse1'), ('action', 'read')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncTeam1'), ('user', 'oncNurse1'), ('action', 'addItem')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'oncTeam1'), ('user', 'oncNurse1'), ('action', 'addNote')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncTeam1'), ('user', 'oncNurse2'), ('action', 'read')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncTeam1'), ('user', 'oncNurse2'), ('action', 'addItem')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'oncTeam1'), ('user', 'oncNurse2'), ('action', 'addNote')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncTeam1'), ('user', 'carNurse1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncTeam1'), ('user', 'carNurse2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncTeam1'), ('user', 'doc1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncTeam1'), ('user', 'doc2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat2'), ('user', 'oncNurse1'), ('resource', 'oncPat2oncItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat2'), ('user', 'oncNurse1'), ('resource', 'oncPat2nursingItem'), ('action', 'read')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'oncPat2'), ('user', 'oncNurse1'), ('resource', 'oncPat2nursingItem'), ('action', 'addItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat2'), ('user', 'oncNurse1'), ('resource', 'oncPat2nursingItem'), ('action', 'addNote')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat2'), ('user', 'oncNurse1'), ('resource', 'oncPat2noteItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat2'), ('user', 'oncNurse2'), ('resource', 'oncPat2oncItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat2'), ('user', 'oncNurse2'), ('resource', 'oncPat2nursingItem'), ('action', 'read')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'oncPat2'), ('user', 'oncNurse2'), ('resource', 'oncPat2nursingItem'), ('action', 'addItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat2'), ('user', 'oncNurse2'), ('resource', 'oncPat2nursingItem'), ('action', 'addNote')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat2'), ('user', 'oncNurse2'), ('resource', 'oncPat2noteItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat2'), ('user', 'carNurse1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat2'), ('user', 'carNurse2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat2'), ('user', 'oncDoc1'), ('action', 'read')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat2'), ('user', 'oncDoc1'), ('action', 'addItem')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'oncPat2'), ('user', 'oncDoc1'), ('action', 'addNote')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat2'), ('user', 'oncDoc2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat2'), ('user', 'oncDoc3'), ('action', 'read')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat2'), ('user', 'oncDoc3'), ('action', 'addItem')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'oncPat2'), ('user', 'oncDoc3'), ('action', 'addNote')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat2'), ('user', 'oncDoc4'), ('action', 'read')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat2'), ('user', 'oncDoc4'), ('action', 'addItem')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'oncPat2'), ('user', 'oncDoc4'), ('action', 'addNote')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat2'), ('user', 'carDoc1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat2'), ('user', 'carDoc2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat2'), ('user', 'anesDoc1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat2'), ('user', 'doc1'), ('resource', 'oncPat2oncItem'), ('action', 'read')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'oncPat2'), ('user', 'doc1'), ('resource', 'oncPat2oncItem'), ('action', 'addItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat2'), ('user', 'doc1'), ('resource', 'oncPat2oncItem'), ('action', 'addNote')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat2'), ('user', 'doc1'), ('resource', 'oncPat2nursingItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat2'), ('user', 'doc1'), ('resource', 'oncPat2noteItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncPat2'), ('user', 'doc2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncTeam2'), ('user', 'oncNurse1'), ('action', 'read')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncTeam2'), ('user', 'oncNurse1'), ('action', 'addItem')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'oncTeam2'), ('user', 'oncNurse1'), ('action', 'addNote')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncTeam2'), ('user', 'oncNurse2'), ('action', 'read')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncTeam2'), ('user', 'oncNurse2'), ('action', 'addItem')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'oncTeam2'), ('user', 'oncNurse2'), ('action', 'addNote')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncTeam2'), ('user', 'carNurse1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncTeam2'), ('user', 'carNurse2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncTeam2'), ('user', 'doc1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncTeam2'), ('user', 'doc2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat1'), ('user', 'oncNurse1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat1'), ('user', 'oncNurse2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat1'), ('user', 'carNurse1'), ('resource', 'carPat1carItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat1'), ('user', 'carNurse1'), ('resource', 'carPat1nursingItem'), ('action', 'read')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'carPat1'), ('user', 'carNurse1'), ('resource', 'carPat1nursingItem'), ('action', 'addItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat1'), ('user', 'carNurse1'), ('resource', 'carPat1nursingItem'), ('action', 'addNote')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat1'), ('user', 'carNurse1'), ('resource', 'carPat1noteItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat1'), ('user', 'carNurse2'), ('resource', 'carPat1carItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat1'), ('user', 'carNurse2'), ('resource', 'carPat1nursingItem'), ('action', 'read')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'carPat1'), ('user', 'carNurse2'), ('resource', 'carPat1nursingItem'), ('action', 'addItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat1'), ('user', 'carNurse2'), ('resource', 'carPat1nursingItem'), ('action', 'addNote')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat1'), ('user', 'carNurse2'), ('resource', 'carPat1noteItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat1'), ('user', 'oncDoc1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat1'), ('user', 'oncDoc2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat1'), ('user', 'oncDoc3')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat1'), ('user', 'oncDoc4')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat1'), ('user', 'carDoc1'), ('action', 'read')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat1'), ('user', 'carDoc1'), ('action', 'addItem'), ('resource', 'carPat1noteItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat1'), ('user', 'carDoc1'), ('action', 'addItem'), ('resource', 'carPat1HR')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'carPat1'), ('user', 'carDoc1'), ('action', 'addNote')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat1'), ('user', 'carDoc2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat1'), ('user', 'anesDoc1'), ('action', 'read')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat1'), ('user', 'anesDoc1'), ('action', 'addItem'), ('resource', 'carPat1noteItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat1'), ('user', 'anesDoc1'), ('action', 'addItem'), ('resource', 'carPat1HR')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'carPat1'), ('user', 'anesDoc1'), ('action', 'addNote')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat1'), ('user', 'doc1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat1'), ('user', 'doc2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carTeam1'), ('user', 'oncNurse1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carTeam1'), ('user', 'oncNurse2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carTeam1'), ('user', 'carNurse1'), ('action', 'read')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carTeam1'), ('user', 'carNurse1'), ('action', 'addItem')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'carTeam1'), ('user', 'carNurse1'), ('action', 'addNote')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carTeam1'), ('user', 'carNurse2'), ('action', 'read')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carTeam1'), ('user', 'carNurse2'), ('action', 'addItem')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'carTeam1'), ('user', 'carNurse2'), ('action', 'addNote')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carTeam1'), ('user', 'doc1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carTeam1'), ('user', 'doc2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat2'), ('user', 'oncNurse1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat2'), ('user', 'oncNurse2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat2'), ('user', 'carNurse1'), ('resource', 'carPat2carItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat2'), ('user', 'carNurse1'), ('resource', 'carPat2nursingItem'), ('action', 'read')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'carPat2'), ('user', 'carNurse1'), ('resource', 'carPat2nursingItem'), ('action', 'addItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat2'), ('user', 'carNurse1'), ('resource', 'carPat2nursingItem'), ('action', 'addNote')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat2'), ('user', 'carNurse1'), ('resource', 'carPat2noteItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat2'), ('user', 'carNurse2'), ('resource', 'carPat2carItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat2'), ('user', 'carNurse2'), ('resource', 'carPat2nursingItem'), ('action', 'read')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'carPat2'), ('user', 'carNurse2'), ('resource', 'carPat2nursingItem'), ('action', 'addItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat2'), ('user', 'carNurse2'), ('resource', 'carPat2nursingItem'), ('action', 'addNote')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat2'), ('user', 'carNurse2'), ('resource', 'carPat2noteItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat2'), ('user', 'oncDoc1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat2'), ('user', 'oncDoc2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat2'), ('user', 'oncDoc3')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat2'), ('user', 'oncDoc4')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat2'), ('user', 'carDoc1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat2'), ('user', 'carDoc2'), ('action', 'read')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat2'), ('user', 'carDoc2'), ('action', 'addItem')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'carPat2'), ('user', 'carDoc2'), ('action', 'addNote')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat2'), ('user', 'anesDoc1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat2'), ('user', 'doc1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat2'), ('user', 'doc2'), ('resource', 'carPat2carItem'), ('action', 'read')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'carPat2'), ('user', 'doc2'), ('resource', 'carPat2carItem'), ('action', 'addItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat2'), ('user', 'doc2'), ('resource', 'carPat2carItem'), ('action', 'addNote')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat2'), ('user', 'doc2'), ('resource', 'carPat2nursingItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carPat2'), ('user', 'doc2'), ('resource', 'carPat2noteItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carTeam2'), ('user', 'oncNurse1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carTeam2'), ('user', 'oncNurse2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carTeam2'), ('user', 'carNurse1'), ('action', 'read')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carTeam2'), ('user', 'carNurse1'), ('action', 'addItem')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'carTeam2'), ('user', 'carNurse1'), ('action', 'addNote')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carTeam2'), ('user', 'carNurse2'), ('action', 'read')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carTeam2'), ('user', 'carNurse2'), ('action', 'addItem')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'carTeam2'), ('user', 'carNurse2'), ('action', 'addNote')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carTeam2'), ('user', 'doc1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carTeam2'), ('user', 'doc2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncDoc1'), ('user', 'oncDoc1'), ('action', 'read')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'oncDoc1'), ('user', 'oncDoc1'), ('action', 'addItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncDoc1'), ('user', 'oncDoc1'), ('action', 'addNote')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncDoc1'), ('user', 'oncDoc2'), ('action', 'read')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'oncDoc1'), ('user', 'oncDoc2'), ('action', 'addItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncDoc1'), ('user', 'oncDoc2'), ('action', 'addNote')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncDoc1'), ('user', 'oncDoc3')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncDoc1'), ('user', 'oncDoc4')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncDoc1'), ('user', 'carDoc1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncDoc1'), ('user', 'carDoc2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncDoc1'), ('user', 'anesDoc1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncNurse2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'doc1'), ('action', 'read'), ('user', 'oncDoc1')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'doc1'), ('action', 'read'), ('user', 'oncDoc2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'doc1'), ('action', 'read'), ('user', 'oncDoc3')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'doc1'), ('action', 'read'), ('user', 'oncDoc4')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'doc1'), ('action', 'read'), ('user', 'carDoc1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'doc1'), ('action', 'read'), ('user', 'carDoc2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'doc1'), ('action', 'read'), ('user', 'anesDoc1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'doc1'), ('action', 'addItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'doc1'), ('action', 'addNote')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncNurse1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncAgent1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carDoc2'), ('user', 'oncDoc1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carDoc2'), ('user', 'oncDoc2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carDoc2'), ('user', 'oncDoc3')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carDoc2'), ('user', 'oncDoc4')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carDoc2'), ('user', 'carDoc1'), ('action', 'read')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'carDoc2'), ('user', 'carDoc1'), ('action', 'addItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carDoc2'), ('user', 'carDoc1'), ('action', 'addNote')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carDoc2'), ('user', 'carDoc2'), ('action', 'read')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'carDoc2'), ('user', 'carDoc2'), ('action', 'addItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carDoc2'), ('user', 'carDoc2'), ('action', 'addNote')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carDoc2'), ('user', 'anesDoc1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carNurse1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'doc2'), ('user', 'oncDoc1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'doc2'), ('user', 'oncDoc2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'doc2'), ('user', 'oncDoc3')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'doc2'), ('user', 'oncDoc4')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'doc2'), ('user', 'carDoc1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'doc2'), ('user', 'carDoc2'), ('action', 'read')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'doc2'), ('user', 'carDoc2'), ('action', 'addItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'doc2'), ('user', 'carDoc2'), ('action', 'addNote')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'doc2'), ('user', 'anesDoc1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carNurse2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carAgent1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncology')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'nursing')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'note'), ('action', 'read'), ('resource', 'oncPat1noteItem'), ('user', 'oncPat1')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'note'), ('action', 'read'), ('resource', 'oncPat1noteItem'), ('user', 'oncPat2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'note'), ('action', 'read'), ('resource', 'oncPat1noteItem'), ('user', 'carPat1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'note'), ('action', 'read'), ('resource', 'oncPat1noteItem'), ('user', 'carPat2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'note'), ('action', 'read'), ('resource', 'oncPat1noteItem'), ('user', 'oncAgent1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'note'), ('action', 'read'), ('resource', 'oncPat1noteItem'), ('user', 'oncAgent2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'note'), ('action', 'read'), ('resource', 'oncPat1noteItem'), ('user', 'carAgent1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'note'), ('action', 'read'), ('resource', 'oncPat1noteItem'), ('user', 'carAgent2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'note'), ('action', 'read'), ('resource', 'oncPat2noteItem'), ('user', 'oncPat1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'note'), ('action', 'read'), ('resource', 'oncPat2noteItem'), ('user', 'oncPat2')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'note'), ('action', 'read'), ('resource', 'oncPat2noteItem'), ('user', 'carPat1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'note'), ('action', 'read'), ('resource', 'oncPat2noteItem'), ('user', 'carPat2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'note'), ('action', 'read'), ('resource', 'oncPat2noteItem'), ('user', 'oncAgent1')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'note'), ('action', 'read'), ('resource', 'oncPat2noteItem'), ('user', 'oncAgent2')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'note'), ('action', 'read'), ('resource', 'oncPat2noteItem'), ('user', 'carAgent1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'note'), ('action', 'read'), ('resource', 'oncPat2noteItem'), ('user', 'carAgent2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'note'), ('action', 'read'), ('resource', 'carPat1noteItem'), ('user', 'oncPat1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'note'), ('action', 'read'), ('resource', 'carPat1noteItem'), ('user', 'oncPat2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'note'), ('action', 'read'), ('resource', 'carPat1noteItem'), ('user', 'carPat1')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'note'), ('action', 'read'), ('resource', 'carPat1noteItem'), ('user', 'carPat2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'note'), ('action', 'read'), ('resource', 'carPat1noteItem'), ('user', 'oncAgent1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'note'), ('action', 'read'), ('resource', 'carPat1noteItem'), ('user', 'oncAgent2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'note'), ('action', 'read'), ('resource', 'carPat1noteItem'), ('user', 'carAgent1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'note'), ('action', 'read'), ('resource', 'carPat1noteItem'), ('user', 'carAgent2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'note'), ('action', 'read'), ('resource', 'carPat2noteItem'), ('user', 'oncPat1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'note'), ('action', 'read'), ('resource', 'carPat2noteItem'), ('user', 'oncPat2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'note'), ('action', 'read'), ('resource', 'carPat2noteItem'), ('user', 'carPat1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'note'), ('action', 'read'), ('resource', 'carPat2noteItem'), ('user', 'carPat2')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'note'), ('action', 'read'), ('resource', 'carPat2noteItem'), ('user', 'oncAgent1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'note'), ('action', 'read'), ('resource', 'carPat2noteItem'), ('user', 'oncAgent2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'note'), ('action', 'read'), ('resource', 'carPat2noteItem'), ('user', 'carAgent1')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'note'), ('action', 'read'), ('resource', 'carPat2noteItem'), ('user', 'carAgent2')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'note'), ('action', 'addItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'note'), ('action', 'addNote')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncWard'), ('action', 'read')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncWard'), ('action', 'addItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncWard'), ('action', 'addNote'), ('user', 'oncPat1'), ('resource', 'oncPat1HR')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'oncWard'), ('action', 'addNote'), ('user', 'oncPat1'), ('resource', 'oncPat2HR')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncWard'), ('action', 'addNote'), ('user', 'oncPat2'), ('resource', 'oncPat1HR')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncWard'), ('action', 'addNote'), ('user', 'oncPat2'), ('resource', 'oncPat2HR')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'oncWard'), ('action', 'addNote'), ('user', 'carPat1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncWard'), ('action', 'addNote'), ('user', 'carPat2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncWard'), ('action', 'addNote'), ('user', 'oncAgent1'), ('resource', 'oncPat1HR')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncWard'), ('action', 'addNote'), ('user', 'oncAgent1'), ('resource', 'oncPat2HR')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'oncWard'), ('action', 'addNote'), ('user', 'oncAgent2'), ('resource', 'oncPat1HR')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncWard'), ('action', 'addNote'), ('user', 'oncAgent2'), ('resource', 'oncPat2HR')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'oncWard'), ('action', 'addNote'), ('user', 'carAgent1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'oncWard'), ('action', 'addNote'), ('user', 'carAgent2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'cardiology')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carWard'), ('action', 'read')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carWard'), ('action', 'addItem')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carWard'), ('action', 'addNote'), ('user', 'oncPat1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carWard'), ('action', 'addNote'), ('user', 'oncPat2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carWard'), ('action', 'addNote'), ('user', 'carPat1'), ('resource', 'carPat1HR')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'carWard'), ('action', 'addNote'), ('user', 'carPat1'), ('resource', 'carPat2HR')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carWard'), ('action', 'addNote'), ('user', 'carPat2'), ('resource', 'carPat1HR')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carWard'), ('action', 'addNote'), ('user', 'carPat2'), ('resource', 'carPat2HR')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'carWard'), ('action', 'addNote'), ('user', 'oncAgent1')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carWard'), ('action', 'addNote'), ('user', 'oncAgent2')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carWard'), ('action', 'addNote'), ('user', 'carAgent1'), ('resource', 'carPat1HR')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carWard'), ('action', 'addNote'), ('user', 'carAgent1'), ('resource', 'carPat2HR')], 'decision': 'permit'}
+{'rule': [('resource_patient', 'carWard'), ('action', 'addNote'), ('user', 'carAgent2'), ('resource', 'carPat1HR')], 'decision': 'deny'}
+{'rule': [('resource_patient', 'carWard'), ('action', 'addNote'), ('user', 'carAgent2'), ('resource', 'carPat2HR')], 'decision': 'permit'}
+

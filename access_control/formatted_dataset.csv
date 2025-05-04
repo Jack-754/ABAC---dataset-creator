@@ -1,0 +1,337 @@
+doctor,speciality,team,ward,nurse,patient,access_decision
+nurse,,,oncWard,nurse,oncPat1,1
+nurse,,,oncWard,nurse,oncPat1,1
+nurse,,,oncWard,nurse,oncPat1,1
+nurse,,,oncWard,nurse,oncPat1,1
+nurse,,,oncWard,nurse,oncPat2,1
+nurse,,,oncWard,nurse,oncPat2,1
+nurse,,,oncWard,nurse,oncPat2,1
+nurse,,,oncWard,nurse,oncPat2,1
+nurse,,,oncWard,nurse,carPat1,1
+nurse,,,oncWard,nurse,carPat1,1
+nurse,,,oncWard,nurse,carPat1,1
+nurse,,,oncWard,nurse,carPat1,1
+nurse,,,oncWard,nurse,carPat2,1
+nurse,,,oncWard,nurse,carPat2,1
+nurse,,,oncWard,nurse,carPat2,1
+nurse,,,oncWard,nurse,carPat2,1
+nurse,,,oncWard,nurse,oncPat1,1
+nurse,,,oncWard,nurse,oncPat1,1
+nurse,,,oncWard,nurse,oncPat1,1
+nurse,,,oncWard,nurse,oncPat1,1
+nurse,,,oncWard,nurse,oncPat2,1
+nurse,,,oncWard,nurse,oncPat2,1
+nurse,,,oncWard,nurse,oncPat2,1
+nurse,,,oncWard,nurse,oncPat2,1
+nurse,,,oncWard,nurse,carPat1,1
+nurse,,,oncWard,nurse,carPat1,1
+nurse,,,oncWard,nurse,carPat1,1
+nurse,,,oncWard,nurse,carPat1,1
+nurse,,,oncWard,nurse,carPat2,1
+nurse,,,oncWard,nurse,carPat2,1
+nurse,,,oncWard,nurse,carPat2,1
+nurse,,,oncWard,nurse,carPat2,1
+nurse,,,carWard,nurse,oncPat1,1
+nurse,,,carWard,nurse,oncPat1,1
+nurse,,,carWard,nurse,oncPat1,1
+nurse,,,carWard,nurse,oncPat1,1
+nurse,,,carWard,nurse,oncPat2,1
+nurse,,,carWard,nurse,oncPat2,1
+nurse,,,carWard,nurse,oncPat2,1
+nurse,,,carWard,nurse,oncPat2,1
+nurse,,,carWard,nurse,carPat1,1
+nurse,,,carWard,nurse,carPat1,1
+nurse,,,carWard,nurse,carPat1,1
+nurse,,,carWard,nurse,carPat1,1
+nurse,,,carWard,nurse,carPat2,1
+nurse,,,carWard,nurse,carPat2,1
+nurse,,,carWard,nurse,carPat2,1
+nurse,,,carWard,nurse,carPat2,1
+nurse,,,carWard,nurse,oncPat1,1
+nurse,,,carWard,nurse,oncPat1,1
+nurse,,,carWard,nurse,oncPat1,1
+nurse,,,carWard,nurse,oncPat1,1
+nurse,,,carWard,nurse,oncPat2,1
+nurse,,,carWard,nurse,oncPat2,1
+nurse,,,carWard,nurse,oncPat2,1
+nurse,,,carWard,nurse,oncPat2,1
+nurse,,,carWard,nurse,carPat1,1
+nurse,,,carWard,nurse,carPat1,1
+nurse,,,carWard,nurse,carPat1,1
+nurse,,,carWard,nurse,carPat1,1
+nurse,,,carWard,nurse,carPat2,1
+nurse,,,carWard,nurse,carPat2,1
+nurse,,,carWard,nurse,carPat2,1
+nurse,,,carWard,nurse,carPat2,1
+doctor,oncology,oncTeam1 oncTeam2,,,oncPat1,1
+doctor,oncology,oncTeam1 oncTeam2,,,oncPat1,1
+doctor,oncology,oncTeam1 oncTeam2,,,oncPat1,1
+doctor,oncology,oncTeam1 oncTeam2,,,oncPat1,1
+doctor,oncology,oncTeam1 oncTeam2,,,oncPat2,1
+doctor,oncology,oncTeam1 oncTeam2,,,oncPat2,1
+doctor,oncology,oncTeam1 oncTeam2,,,oncPat2,1
+doctor,oncology,oncTeam1 oncTeam2,,,oncPat2,1
+doctor,oncology,oncTeam1 oncTeam2,,,carPat1,1
+doctor,oncology,oncTeam1 oncTeam2,,,carPat1,1
+doctor,oncology,oncTeam1 oncTeam2,,,carPat1,1
+doctor,oncology,oncTeam1 oncTeam2,,,carPat1,1
+doctor,oncology,oncTeam1 oncTeam2,,,carPat2,1
+doctor,oncology,oncTeam1 oncTeam2,,,carPat2,1
+doctor,oncology,oncTeam1 oncTeam2,,,carPat2,1
+doctor,oncology,oncTeam1 oncTeam2,,,carPat2,1
+doctor,oncology,oncTeam1,,,oncPat1,1
+doctor,oncology,oncTeam1,,,oncPat1,1
+doctor,oncology,oncTeam1,,,oncPat1,1
+doctor,oncology,oncTeam1,,,oncPat1,1
+doctor,oncology,oncTeam1,,,oncPat2,1
+doctor,oncology,oncTeam1,,,oncPat2,1
+doctor,oncology,oncTeam1,,,oncPat2,1
+doctor,oncology,oncTeam1,,,oncPat2,1
+doctor,oncology,oncTeam1,,,carPat1,1
+doctor,oncology,oncTeam1,,,carPat1,1
+doctor,oncology,oncTeam1,,,carPat1,1
+doctor,oncology,oncTeam1,,,carPat1,1
+doctor,oncology,oncTeam1,,,carPat2,1
+doctor,oncology,oncTeam1,,,carPat2,1
+doctor,oncology,oncTeam1,,,carPat2,1
+doctor,oncology,oncTeam1,,,carPat2,1
+doctor,oncology,oncTeam2,,,oncPat1,1
+doctor,oncology,oncTeam2,,,oncPat1,1
+doctor,oncology,oncTeam2,,,oncPat1,1
+doctor,oncology,oncTeam2,,,oncPat1,1
+doctor,oncology,oncTeam2,,,oncPat2,1
+doctor,oncology,oncTeam2,,,oncPat2,1
+doctor,oncology,oncTeam2,,,oncPat2,1
+doctor,oncology,oncTeam2,,,oncPat2,1
+doctor,oncology,oncTeam2,,,carPat1,1
+doctor,oncology,oncTeam2,,,carPat1,1
+doctor,oncology,oncTeam2,,,carPat1,1
+doctor,oncology,oncTeam2,,,carPat1,1
+doctor,oncology,oncTeam2,,,carPat2,1
+doctor,oncology,oncTeam2,,,carPat2,1
+doctor,oncology,oncTeam2,,,carPat2,1
+doctor,oncology,oncTeam2,,,carPat2,1
+doctor,oncology,oncTeam2,,,oncPat1,1
+doctor,oncology,oncTeam2,,,oncPat1,1
+doctor,oncology,oncTeam2,,,oncPat1,1
+doctor,oncology,oncTeam2,,,oncPat1,1
+doctor,oncology,oncTeam2,,,oncPat2,1
+doctor,oncology,oncTeam2,,,oncPat2,1
+doctor,oncology,oncTeam2,,,oncPat2,1
+doctor,oncology,oncTeam2,,,oncPat2,1
+doctor,oncology,oncTeam2,,,carPat1,1
+doctor,oncology,oncTeam2,,,carPat1,1
+doctor,oncology,oncTeam2,,,carPat1,1
+doctor,oncology,oncTeam2,,,carPat1,1
+doctor,oncology,oncTeam2,,,carPat2,1
+doctor,oncology,oncTeam2,,,carPat2,1
+doctor,oncology,oncTeam2,,,carPat2,1
+doctor,oncology,oncTeam2,,,carPat2,1
+doctor,cardiology,carTeam1,,,oncPat1,1
+doctor,cardiology,carTeam1,,,oncPat1,1
+doctor,cardiology,carTeam1,,,oncPat1,1
+doctor,cardiology,carTeam1,,,oncPat1,1
+doctor,cardiology,carTeam1,,,oncPat2,1
+doctor,cardiology,carTeam1,,,oncPat2,1
+doctor,cardiology,carTeam1,,,oncPat2,1
+doctor,cardiology,carTeam1,,,oncPat2,1
+doctor,cardiology,carTeam1,,,carPat1,1
+doctor,cardiology,carTeam1,,,carPat1,1
+doctor,cardiology,carTeam1,,,carPat1,1
+doctor,cardiology,carTeam1,,,carPat1,1
+doctor,cardiology,carTeam1,,,carPat2,1
+doctor,cardiology,carTeam1,,,carPat2,1
+doctor,cardiology,carTeam1,,,carPat2,1
+doctor,cardiology,carTeam1,,,carPat2,1
+doctor,cardiology,carTeam2,,,oncPat1,1
+doctor,cardiology,carTeam2,,,oncPat1,1
+doctor,cardiology,carTeam2,,,oncPat1,1
+doctor,cardiology,carTeam2,,,oncPat1,1
+doctor,cardiology,carTeam2,,,oncPat2,1
+doctor,cardiology,carTeam2,,,oncPat2,1
+doctor,cardiology,carTeam2,,,oncPat2,1
+doctor,cardiology,carTeam2,,,oncPat2,1
+doctor,cardiology,carTeam2,,,carPat1,1
+doctor,cardiology,carTeam2,,,carPat1,1
+doctor,cardiology,carTeam2,,,carPat1,1
+doctor,cardiology,carTeam2,,,carPat1,1
+doctor,cardiology,carTeam2,,,carPat2,1
+doctor,cardiology,carTeam2,,,carPat2,1
+doctor,cardiology,carTeam2,,,carPat2,1
+doctor,cardiology,carTeam2,,,carPat2,1
+doctor,anesthesiology,oncTeam1 carTeam1,,,oncPat1,1
+doctor,anesthesiology,oncTeam1 carTeam1,,,oncPat1,1
+doctor,anesthesiology,oncTeam1 carTeam1,,,oncPat1,1
+doctor,anesthesiology,oncTeam1 carTeam1,,,oncPat1,1
+doctor,anesthesiology,oncTeam1 carTeam1,,,oncPat2,1
+doctor,anesthesiology,oncTeam1 carTeam1,,,oncPat2,1
+doctor,anesthesiology,oncTeam1 carTeam1,,,oncPat2,1
+doctor,anesthesiology,oncTeam1 carTeam1,,,oncPat2,1
+doctor,anesthesiology,oncTeam1 carTeam1,,,carPat1,1
+doctor,anesthesiology,oncTeam1 carTeam1,,,carPat1,1
+doctor,anesthesiology,oncTeam1 carTeam1,,,carPat1,1
+doctor,anesthesiology,oncTeam1 carTeam1,,,carPat1,1
+doctor,anesthesiology,oncTeam1 carTeam1,,,carPat2,1
+doctor,anesthesiology,oncTeam1 carTeam1,,,carPat2,1
+doctor,anesthesiology,oncTeam1 carTeam1,,,carPat2,1
+doctor,anesthesiology,oncTeam1 carTeam1,,,carPat2,1
+doctor,oncology pediatrics,,,,oncPat1,1
+doctor,oncology pediatrics,,,,oncPat1,1
+doctor,oncology pediatrics,,,,oncPat1,1
+doctor,oncology pediatrics,,,,oncPat1,1
+doctor,oncology pediatrics,,,,oncPat2,1
+doctor,oncology pediatrics,,,,oncPat2,1
+doctor,oncology pediatrics,,,,oncPat2,1
+doctor,oncology pediatrics,,,,oncPat2,1
+doctor,oncology pediatrics,,,,carPat1,1
+doctor,oncology pediatrics,,,,carPat1,1
+doctor,oncology pediatrics,,,,carPat1,1
+doctor,oncology pediatrics,,,,carPat1,1
+doctor,oncology pediatrics,,,,carPat2,1
+doctor,oncology pediatrics,,,,carPat2,1
+doctor,oncology pediatrics,,,,carPat2,1
+doctor,oncology pediatrics,,,,carPat2,1
+doctor,cardiology neurology,,,,oncPat1,1
+doctor,cardiology neurology,,,,oncPat1,1
+doctor,cardiology neurology,,,,oncPat1,1
+doctor,cardiology neurology,,,,oncPat1,1
+doctor,cardiology neurology,,,,oncPat2,1
+doctor,cardiology neurology,,,,oncPat2,1
+doctor,cardiology neurology,,,,oncPat2,1
+doctor,cardiology neurology,,,,oncPat2,1
+doctor,cardiology neurology,,,,carPat1,1
+doctor,cardiology neurology,,,,carPat1,1
+doctor,cardiology neurology,,,,carPat1,1
+doctor,cardiology neurology,,,,carPat1,1
+doctor,cardiology neurology,,,,carPat2,1
+doctor,cardiology neurology,,,,carPat2,1
+doctor,cardiology neurology,,,,carPat2,1
+doctor,cardiology neurology,,,,carPat2,1
+,,,oncWard,,oncPat1,1
+,,,oncWard,,oncPat1,1
+,,,oncWard,,oncPat1,1
+,,,oncWard,,oncPat1,1
+,,,oncWard,,oncPat2,1
+,,,oncWard,,oncPat2,1
+,,,oncWard,,oncPat2,1
+,,,oncWard,,oncPat2,1
+,,,oncWard,,carPat1,1
+,,,oncWard,,carPat1,1
+,,,oncWard,,carPat1,1
+,,,oncWard,,carPat1,1
+,,,oncWard,,carPat2,1
+,,,oncWard,,carPat2,1
+,,,oncWard,,carPat2,1
+,,,oncWard,,carPat2,1
+,,,oncWard,,oncPat1,1
+,,,oncWard,,oncPat1,1
+,,,oncWard,,oncPat1,1
+,,,oncWard,,oncPat1,1
+,,,oncWard,,oncPat2,1
+,,,oncWard,,oncPat2,1
+,,,oncWard,,oncPat2,1
+,,,oncWard,,oncPat2,1
+,,,oncWard,,carPat1,1
+,,,oncWard,,carPat1,1
+,,,oncWard,,carPat1,1
+,,,oncWard,,carPat1,1
+,,,oncWard,,carPat2,1
+,,,oncWard,,carPat2,1
+,,,oncWard,,carPat2,1
+,,,oncWard,,carPat2,1
+,,,carWard,,oncPat1,1
+,,,carWard,,oncPat1,1
+,,,carWard,,oncPat1,1
+,,,carWard,,oncPat1,1
+,,,carWard,,oncPat2,1
+,,,carWard,,oncPat2,1
+,,,carWard,,oncPat2,1
+,,,carWard,,oncPat2,1
+,,,carWard,,carPat1,1
+,,,carWard,,carPat1,1
+,,,carWard,,carPat1,1
+,,,carWard,,carPat1,1
+,,,carWard,,carPat2,1
+,,,carWard,,carPat2,1
+,,,carWard,,carPat2,1
+,,,carWard,,carPat2,1
+,,,carWard,,oncPat1,1
+,,,carWard,,oncPat1,1
+,,,carWard,,oncPat1,1
+,,,carWard,,oncPat1,1
+,,,carWard,,oncPat2,1
+,,,carWard,,oncPat2,1
+,,,carWard,,oncPat2,1
+,,,carWard,,oncPat2,1
+,,,carWard,,carPat1,1
+,,,carWard,,carPat1,1
+,,,carWard,,carPat1,1
+,,,carWard,,carPat1,1
+,,,carWard,,carPat2,1
+,,,carWard,,carPat2,1
+,,,carWard,,carPat2,1
+,,,carWard,,carPat2,1
+,,,,,oncPat1,1
+,,,,,oncPat1,1
+,,,,,oncPat1,1
+,,,,,oncPat1,1
+,,,,,oncPat2,1
+,,,,,oncPat2,1
+,,,,,oncPat2,1
+,,,,,oncPat2,1
+,,,,,carPat1,1
+,,,,,carPat1,1
+,,,,,carPat1,1
+,,,,,carPat1,1
+,,,,,carPat2,1
+,,,,,carPat2,1
+,,,,,carPat2,1
+,,,,,carPat2,1
+,,,,,oncPat1,1
+,,,,,oncPat1,1
+,,,,,oncPat1,1
+,,,,,oncPat1,1
+,,,,,oncPat2,1
+,,,,,oncPat2,1
+,,,,,oncPat2,1
+,,,,,oncPat2,1
+,,,,,carPat1,1
+,,,,,carPat1,1
+,,,,,carPat1,1
+,,,,,carPat1,1
+,,,,,carPat2,1
+,,,,,carPat2,1
+,,,,,carPat2,1
+,,,,,carPat2,1
+,,,,,oncPat1,1
+,,,,,oncPat1,1
+,,,,,oncPat1,1
+,,,,,oncPat1,1
+,,,,,oncPat2,1
+,,,,,oncPat2,1
+,,,,,oncPat2,1
+,,,,,oncPat2,1
+,,,,,carPat1,1
+,,,,,carPat1,1
+,,,,,carPat1,1
+,,,,,carPat1,1
+,,,,,carPat2,1
+,,,,,carPat2,1
+,,,,,carPat2,1
+,,,,,carPat2,1
+,,,,,oncPat1,1
+,,,,,oncPat1,1
+,,,,,oncPat1,1
+,,,,,oncPat1,1
+,,,,,oncPat2,1
+,,,,,oncPat2,1
+,,,,,oncPat2,1
+,,,,,oncPat2,1
+,,,,,carPat1,1
+,,,,,carPat1,1
+,,,,,carPat1,1
+,,,,,carPat1,1
+,,,,,carPat2,1
+,,,,,carPat2,1
+,,,,,carPat2,1
+,,,,,carPat2,1

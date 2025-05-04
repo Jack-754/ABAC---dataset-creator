@@ -1,0 +1,1008 @@
+oncNurse1 oncPat1oncItem read nurse oncWard HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+oncNurse1 oncPat1oncItem addItem nurse oncWard HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+oncNurse1 oncPat1oncItem addNote nurse oncWard HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+oncNurse1 oncPat1nursingItem read nurse oncWard HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 1
+oncNurse1 oncPat1nursingItem addItem nurse oncWard HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+oncNurse1 oncPat1nursingItem addNote nurse oncWard HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+oncNurse1 oncPat1noteItem read nurse oncWard HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+oncNurse1 oncPat1noteItem addItem nurse oncWard HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+oncNurse1 oncPat1noteItem addNote nurse oncWard HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+oncNurse1 oncPat1HR read nurse oncWard HR oncPat1 oncTeam1 oncWard 0
+oncNurse1 oncPat1HR addItem nurse oncWard HR oncPat1 oncTeam1 oncWard 1
+oncNurse1 oncPat1HR addNote nurse oncWard HR oncPat1 oncTeam1 oncWard 0
+oncNurse1 oncPat2oncItem read nurse oncWard HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+oncNurse1 oncPat2oncItem addItem nurse oncWard HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+oncNurse1 oncPat2oncItem addNote nurse oncWard HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+oncNurse1 oncPat2nursingItem read nurse oncWard HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 1
+oncNurse1 oncPat2nursingItem addItem nurse oncWard HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+oncNurse1 oncPat2nursingItem addNote nurse oncWard HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+oncNurse1 oncPat2noteItem read nurse oncWard HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+oncNurse1 oncPat2noteItem addItem nurse oncWard HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+oncNurse1 oncPat2noteItem addNote nurse oncWard HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+oncNurse1 oncPat2HR read nurse oncWard HR oncPat2 oncTeam2 oncWard 0
+oncNurse1 oncPat2HR addItem nurse oncWard HR oncPat2 oncTeam2 oncWard 1
+oncNurse1 oncPat2HR addNote nurse oncWard HR oncPat2 oncTeam2 oncWard 0
+oncNurse1 carPat1carItem read nurse oncWard HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+oncNurse1 carPat1carItem addItem nurse oncWard HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+oncNurse1 carPat1carItem addNote nurse oncWard HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+oncNurse1 carPat1nursingItem read nurse oncWard HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+oncNurse1 carPat1nursingItem addItem nurse oncWard HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+oncNurse1 carPat1nursingItem addNote nurse oncWard HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+oncNurse1 carPat1noteItem read nurse oncWard HRitem carPat1 carPat1 note carTeam1 carWard 0
+oncNurse1 carPat1noteItem addItem nurse oncWard HRitem carPat1 carPat1 note carTeam1 carWard 0
+oncNurse1 carPat1noteItem addNote nurse oncWard HRitem carPat1 carPat1 note carTeam1 carWard 0
+oncNurse1 carPat1HR read nurse oncWard HR carPat1 carTeam1 carWard 0
+oncNurse1 carPat1HR addItem nurse oncWard HR carPat1 carTeam1 carWard 0
+oncNurse1 carPat1HR addNote nurse oncWard HR carPat1 carTeam1 carWard 0
+oncNurse1 carPat2carItem read nurse oncWard HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+oncNurse1 carPat2carItem addItem nurse oncWard HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+oncNurse1 carPat2carItem addNote nurse oncWard HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+oncNurse1 carPat2nursingItem read nurse oncWard HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+oncNurse1 carPat2nursingItem addItem nurse oncWard HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+oncNurse1 carPat2nursingItem addNote nurse oncWard HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+oncNurse1 carPat2noteItem read nurse oncWard HRitem carAgent1 carPat2 note carTeam2 carWard 0
+oncNurse1 carPat2noteItem addItem nurse oncWard HRitem carAgent1 carPat2 note carTeam2 carWard 0
+oncNurse1 carPat2noteItem addNote nurse oncWard HRitem carAgent1 carPat2 note carTeam2 carWard 0
+oncNurse1 carPat2HR read nurse oncWard HR carPat2 carTeam2 carWard 0
+oncNurse1 carPat2HR addItem nurse oncWard HR carPat2 carTeam2 carWard 0
+oncNurse1 carPat2HR addNote nurse oncWard HR carPat2 carTeam2 carWard 0
+oncNurse2 oncPat1oncItem read nurse oncWard HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+oncNurse2 oncPat1oncItem addItem nurse oncWard HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+oncNurse2 oncPat1oncItem addNote nurse oncWard HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+oncNurse2 oncPat1nursingItem read nurse oncWard HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 1
+oncNurse2 oncPat1nursingItem addItem nurse oncWard HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+oncNurse2 oncPat1nursingItem addNote nurse oncWard HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+oncNurse2 oncPat1noteItem read nurse oncWard HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+oncNurse2 oncPat1noteItem addItem nurse oncWard HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+oncNurse2 oncPat1noteItem addNote nurse oncWard HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+oncNurse2 oncPat1HR read nurse oncWard HR oncPat1 oncTeam1 oncWard 0
+oncNurse2 oncPat1HR addItem nurse oncWard HR oncPat1 oncTeam1 oncWard 1
+oncNurse2 oncPat1HR addNote nurse oncWard HR oncPat1 oncTeam1 oncWard 0
+oncNurse2 oncPat2oncItem read nurse oncWard HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+oncNurse2 oncPat2oncItem addItem nurse oncWard HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+oncNurse2 oncPat2oncItem addNote nurse oncWard HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+oncNurse2 oncPat2nursingItem read nurse oncWard HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 1
+oncNurse2 oncPat2nursingItem addItem nurse oncWard HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+oncNurse2 oncPat2nursingItem addNote nurse oncWard HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+oncNurse2 oncPat2noteItem read nurse oncWard HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+oncNurse2 oncPat2noteItem addItem nurse oncWard HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+oncNurse2 oncPat2noteItem addNote nurse oncWard HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+oncNurse2 oncPat2HR read nurse oncWard HR oncPat2 oncTeam2 oncWard 0
+oncNurse2 oncPat2HR addItem nurse oncWard HR oncPat2 oncTeam2 oncWard 1
+oncNurse2 oncPat2HR addNote nurse oncWard HR oncPat2 oncTeam2 oncWard 0
+oncNurse2 carPat1carItem read nurse oncWard HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+oncNurse2 carPat1carItem addItem nurse oncWard HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+oncNurse2 carPat1carItem addNote nurse oncWard HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+oncNurse2 carPat1nursingItem read nurse oncWard HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+oncNurse2 carPat1nursingItem addItem nurse oncWard HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+oncNurse2 carPat1nursingItem addNote nurse oncWard HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+oncNurse2 carPat1noteItem read nurse oncWard HRitem carPat1 carPat1 note carTeam1 carWard 0
+oncNurse2 carPat1noteItem addItem nurse oncWard HRitem carPat1 carPat1 note carTeam1 carWard 0
+oncNurse2 carPat1noteItem addNote nurse oncWard HRitem carPat1 carPat1 note carTeam1 carWard 0
+oncNurse2 carPat1HR read nurse oncWard HR carPat1 carTeam1 carWard 0
+oncNurse2 carPat1HR addItem nurse oncWard HR carPat1 carTeam1 carWard 0
+oncNurse2 carPat1HR addNote nurse oncWard HR carPat1 carTeam1 carWard 0
+oncNurse2 carPat2carItem read nurse oncWard HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+oncNurse2 carPat2carItem addItem nurse oncWard HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+oncNurse2 carPat2carItem addNote nurse oncWard HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+oncNurse2 carPat2nursingItem read nurse oncWard HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+oncNurse2 carPat2nursingItem addItem nurse oncWard HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+oncNurse2 carPat2nursingItem addNote nurse oncWard HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+oncNurse2 carPat2noteItem read nurse oncWard HRitem carAgent1 carPat2 note carTeam2 carWard 0
+oncNurse2 carPat2noteItem addItem nurse oncWard HRitem carAgent1 carPat2 note carTeam2 carWard 0
+oncNurse2 carPat2noteItem addNote nurse oncWard HRitem carAgent1 carPat2 note carTeam2 carWard 0
+oncNurse2 carPat2HR read nurse oncWard HR carPat2 carTeam2 carWard 0
+oncNurse2 carPat2HR addItem nurse oncWard HR carPat2 carTeam2 carWard 0
+oncNurse2 carPat2HR addNote nurse oncWard HR carPat2 carTeam2 carWard 0
+carNurse1 oncPat1oncItem read nurse carWard HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+carNurse1 oncPat1oncItem addItem nurse carWard HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+carNurse1 oncPat1oncItem addNote nurse carWard HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+carNurse1 oncPat1nursingItem read nurse carWard HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+carNurse1 oncPat1nursingItem addItem nurse carWard HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+carNurse1 oncPat1nursingItem addNote nurse carWard HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+carNurse1 oncPat1noteItem read nurse carWard HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+carNurse1 oncPat1noteItem addItem nurse carWard HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+carNurse1 oncPat1noteItem addNote nurse carWard HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+carNurse1 oncPat1HR read nurse carWard HR oncPat1 oncTeam1 oncWard 0
+carNurse1 oncPat1HR addItem nurse carWard HR oncPat1 oncTeam1 oncWard 0
+carNurse1 oncPat1HR addNote nurse carWard HR oncPat1 oncTeam1 oncWard 0
+carNurse1 oncPat2oncItem read nurse carWard HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+carNurse1 oncPat2oncItem addItem nurse carWard HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+carNurse1 oncPat2oncItem addNote nurse carWard HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+carNurse1 oncPat2nursingItem read nurse carWard HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+carNurse1 oncPat2nursingItem addItem nurse carWard HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+carNurse1 oncPat2nursingItem addNote nurse carWard HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+carNurse1 oncPat2noteItem read nurse carWard HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+carNurse1 oncPat2noteItem addItem nurse carWard HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+carNurse1 oncPat2noteItem addNote nurse carWard HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+carNurse1 oncPat2HR read nurse carWard HR oncPat2 oncTeam2 oncWard 0
+carNurse1 oncPat2HR addItem nurse carWard HR oncPat2 oncTeam2 oncWard 0
+carNurse1 oncPat2HR addNote nurse carWard HR oncPat2 oncTeam2 oncWard 0
+carNurse1 carPat1carItem read nurse carWard HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+carNurse1 carPat1carItem addItem nurse carWard HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+carNurse1 carPat1carItem addNote nurse carWard HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+carNurse1 carPat1nursingItem read nurse carWard HRitem carNurse1 carPat1 nursing carTeam1 carWard 1
+carNurse1 carPat1nursingItem addItem nurse carWard HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+carNurse1 carPat1nursingItem addNote nurse carWard HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+carNurse1 carPat1noteItem read nurse carWard HRitem carPat1 carPat1 note carTeam1 carWard 0
+carNurse1 carPat1noteItem addItem nurse carWard HRitem carPat1 carPat1 note carTeam1 carWard 0
+carNurse1 carPat1noteItem addNote nurse carWard HRitem carPat1 carPat1 note carTeam1 carWard 0
+carNurse1 carPat1HR read nurse carWard HR carPat1 carTeam1 carWard 0
+carNurse1 carPat1HR addItem nurse carWard HR carPat1 carTeam1 carWard 1
+carNurse1 carPat1HR addNote nurse carWard HR carPat1 carTeam1 carWard 0
+carNurse1 carPat2carItem read nurse carWard HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+carNurse1 carPat2carItem addItem nurse carWard HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+carNurse1 carPat2carItem addNote nurse carWard HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+carNurse1 carPat2nursingItem read nurse carWard HRitem carNurse2 carPat2 nursing carTeam2 carWard 1
+carNurse1 carPat2nursingItem addItem nurse carWard HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+carNurse1 carPat2nursingItem addNote nurse carWard HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+carNurse1 carPat2noteItem read nurse carWard HRitem carAgent1 carPat2 note carTeam2 carWard 0
+carNurse1 carPat2noteItem addItem nurse carWard HRitem carAgent1 carPat2 note carTeam2 carWard 0
+carNurse1 carPat2noteItem addNote nurse carWard HRitem carAgent1 carPat2 note carTeam2 carWard 0
+carNurse1 carPat2HR read nurse carWard HR carPat2 carTeam2 carWard 0
+carNurse1 carPat2HR addItem nurse carWard HR carPat2 carTeam2 carWard 1
+carNurse1 carPat2HR addNote nurse carWard HR carPat2 carTeam2 carWard 0
+carNurse2 oncPat1oncItem read nurse carWard HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+carNurse2 oncPat1oncItem addItem nurse carWard HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+carNurse2 oncPat1oncItem addNote nurse carWard HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+carNurse2 oncPat1nursingItem read nurse carWard HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+carNurse2 oncPat1nursingItem addItem nurse carWard HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+carNurse2 oncPat1nursingItem addNote nurse carWard HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+carNurse2 oncPat1noteItem read nurse carWard HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+carNurse2 oncPat1noteItem addItem nurse carWard HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+carNurse2 oncPat1noteItem addNote nurse carWard HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+carNurse2 oncPat1HR read nurse carWard HR oncPat1 oncTeam1 oncWard 0
+carNurse2 oncPat1HR addItem nurse carWard HR oncPat1 oncTeam1 oncWard 0
+carNurse2 oncPat1HR addNote nurse carWard HR oncPat1 oncTeam1 oncWard 0
+carNurse2 oncPat2oncItem read nurse carWard HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+carNurse2 oncPat2oncItem addItem nurse carWard HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+carNurse2 oncPat2oncItem addNote nurse carWard HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+carNurse2 oncPat2nursingItem read nurse carWard HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+carNurse2 oncPat2nursingItem addItem nurse carWard HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+carNurse2 oncPat2nursingItem addNote nurse carWard HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+carNurse2 oncPat2noteItem read nurse carWard HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+carNurse2 oncPat2noteItem addItem nurse carWard HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+carNurse2 oncPat2noteItem addNote nurse carWard HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+carNurse2 oncPat2HR read nurse carWard HR oncPat2 oncTeam2 oncWard 0
+carNurse2 oncPat2HR addItem nurse carWard HR oncPat2 oncTeam2 oncWard 0
+carNurse2 oncPat2HR addNote nurse carWard HR oncPat2 oncTeam2 oncWard 0
+carNurse2 carPat1carItem read nurse carWard HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+carNurse2 carPat1carItem addItem nurse carWard HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+carNurse2 carPat1carItem addNote nurse carWard HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+carNurse2 carPat1nursingItem read nurse carWard HRitem carNurse1 carPat1 nursing carTeam1 carWard 1
+carNurse2 carPat1nursingItem addItem nurse carWard HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+carNurse2 carPat1nursingItem addNote nurse carWard HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+carNurse2 carPat1noteItem read nurse carWard HRitem carPat1 carPat1 note carTeam1 carWard 0
+carNurse2 carPat1noteItem addItem nurse carWard HRitem carPat1 carPat1 note carTeam1 carWard 0
+carNurse2 carPat1noteItem addNote nurse carWard HRitem carPat1 carPat1 note carTeam1 carWard 0
+carNurse2 carPat1HR read nurse carWard HR carPat1 carTeam1 carWard 0
+carNurse2 carPat1HR addItem nurse carWard HR carPat1 carTeam1 carWard 1
+carNurse2 carPat1HR addNote nurse carWard HR carPat1 carTeam1 carWard 0
+carNurse2 carPat2carItem read nurse carWard HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+carNurse2 carPat2carItem addItem nurse carWard HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+carNurse2 carPat2carItem addNote nurse carWard HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+carNurse2 carPat2nursingItem read nurse carWard HRitem carNurse2 carPat2 nursing carTeam2 carWard 1
+carNurse2 carPat2nursingItem addItem nurse carWard HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+carNurse2 carPat2nursingItem addNote nurse carWard HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+carNurse2 carPat2noteItem read nurse carWard HRitem carAgent1 carPat2 note carTeam2 carWard 0
+carNurse2 carPat2noteItem addItem nurse carWard HRitem carAgent1 carPat2 note carTeam2 carWard 0
+carNurse2 carPat2noteItem addNote nurse carWard HRitem carAgent1 carPat2 note carTeam2 carWard 0
+carNurse2 carPat2HR read nurse carWard HR carPat2 carTeam2 carWard 0
+carNurse2 carPat2HR addItem nurse carWard HR carPat2 carTeam2 carWard 1
+carNurse2 carPat2HR addNote nurse carWard HR carPat2 carTeam2 carWard 0
+oncDoc1 oncPat1oncItem read doctor oncology oncTeam1,oncTeam2 HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 1
+oncDoc1 oncPat1oncItem addItem doctor oncology oncTeam1,oncTeam2 HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+oncDoc1 oncPat1oncItem addNote doctor oncology oncTeam1,oncTeam2 HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+oncDoc1 oncPat1nursingItem read doctor oncology oncTeam1,oncTeam2 HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+oncDoc1 oncPat1nursingItem addItem doctor oncology oncTeam1,oncTeam2 HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+oncDoc1 oncPat1nursingItem addNote doctor oncology oncTeam1,oncTeam2 HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+oncDoc1 oncPat1noteItem read doctor oncology oncTeam1,oncTeam2 HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+oncDoc1 oncPat1noteItem addItem doctor oncology oncTeam1,oncTeam2 HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+oncDoc1 oncPat1noteItem addNote doctor oncology oncTeam1,oncTeam2 HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+oncDoc1 oncPat1HR read doctor oncology oncTeam1,oncTeam2 HR oncPat1 oncTeam1 oncWard 0
+oncDoc1 oncPat1HR addItem doctor oncology oncTeam1,oncTeam2 HR oncPat1 oncTeam1 oncWard 1
+oncDoc1 oncPat1HR addNote doctor oncology oncTeam1,oncTeam2 HR oncPat1 oncTeam1 oncWard 0
+oncDoc1 oncPat2oncItem read doctor oncology oncTeam1,oncTeam2 HRitem doc1 oncPat2 oncology oncTeam2 oncWard 1
+oncDoc1 oncPat2oncItem addItem doctor oncology oncTeam1,oncTeam2 HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+oncDoc1 oncPat2oncItem addNote doctor oncology oncTeam1,oncTeam2 HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+oncDoc1 oncPat2nursingItem read doctor oncology oncTeam1,oncTeam2 HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+oncDoc1 oncPat2nursingItem addItem doctor oncology oncTeam1,oncTeam2 HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+oncDoc1 oncPat2nursingItem addNote doctor oncology oncTeam1,oncTeam2 HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+oncDoc1 oncPat2noteItem read doctor oncology oncTeam1,oncTeam2 HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+oncDoc1 oncPat2noteItem addItem doctor oncology oncTeam1,oncTeam2 HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+oncDoc1 oncPat2noteItem addNote doctor oncology oncTeam1,oncTeam2 HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+oncDoc1 oncPat2HR read doctor oncology oncTeam1,oncTeam2 HR oncPat2 oncTeam2 oncWard 0
+oncDoc1 oncPat2HR addItem doctor oncology oncTeam1,oncTeam2 HR oncPat2 oncTeam2 oncWard 1
+oncDoc1 oncPat2HR addNote doctor oncology oncTeam1,oncTeam2 HR oncPat2 oncTeam2 oncWard 0
+oncDoc1 carPat1carItem read doctor oncology oncTeam1,oncTeam2 HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+oncDoc1 carPat1carItem addItem doctor oncology oncTeam1,oncTeam2 HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+oncDoc1 carPat1carItem addNote doctor oncology oncTeam1,oncTeam2 HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+oncDoc1 carPat1nursingItem read doctor oncology oncTeam1,oncTeam2 HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+oncDoc1 carPat1nursingItem addItem doctor oncology oncTeam1,oncTeam2 HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+oncDoc1 carPat1nursingItem addNote doctor oncology oncTeam1,oncTeam2 HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+oncDoc1 carPat1noteItem read doctor oncology oncTeam1,oncTeam2 HRitem carPat1 carPat1 note carTeam1 carWard 0
+oncDoc1 carPat1noteItem addItem doctor oncology oncTeam1,oncTeam2 HRitem carPat1 carPat1 note carTeam1 carWard 0
+oncDoc1 carPat1noteItem addNote doctor oncology oncTeam1,oncTeam2 HRitem carPat1 carPat1 note carTeam1 carWard 0
+oncDoc1 carPat1HR read doctor oncology oncTeam1,oncTeam2 HR carPat1 carTeam1 carWard 0
+oncDoc1 carPat1HR addItem doctor oncology oncTeam1,oncTeam2 HR carPat1 carTeam1 carWard 0
+oncDoc1 carPat1HR addNote doctor oncology oncTeam1,oncTeam2 HR carPat1 carTeam1 carWard 0
+oncDoc1 carPat2carItem read doctor oncology oncTeam1,oncTeam2 HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+oncDoc1 carPat2carItem addItem doctor oncology oncTeam1,oncTeam2 HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+oncDoc1 carPat2carItem addNote doctor oncology oncTeam1,oncTeam2 HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+oncDoc1 carPat2nursingItem read doctor oncology oncTeam1,oncTeam2 HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+oncDoc1 carPat2nursingItem addItem doctor oncology oncTeam1,oncTeam2 HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+oncDoc1 carPat2nursingItem addNote doctor oncology oncTeam1,oncTeam2 HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+oncDoc1 carPat2noteItem read doctor oncology oncTeam1,oncTeam2 HRitem carAgent1 carPat2 note carTeam2 carWard 0
+oncDoc1 carPat2noteItem addItem doctor oncology oncTeam1,oncTeam2 HRitem carAgent1 carPat2 note carTeam2 carWard 0
+oncDoc1 carPat2noteItem addNote doctor oncology oncTeam1,oncTeam2 HRitem carAgent1 carPat2 note carTeam2 carWard 0
+oncDoc1 carPat2HR read doctor oncology oncTeam1,oncTeam2 HR carPat2 carTeam2 carWard 0
+oncDoc1 carPat2HR addItem doctor oncology oncTeam1,oncTeam2 HR carPat2 carTeam2 carWard 0
+oncDoc1 carPat2HR addNote doctor oncology oncTeam1,oncTeam2 HR carPat2 carTeam2 carWard 0
+oncDoc2 oncPat1oncItem read doctor oncology oncTeam1 HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 1
+oncDoc2 oncPat1oncItem addItem doctor oncology oncTeam1 HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+oncDoc2 oncPat1oncItem addNote doctor oncology oncTeam1 HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+oncDoc2 oncPat1nursingItem read doctor oncology oncTeam1 HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+oncDoc2 oncPat1nursingItem addItem doctor oncology oncTeam1 HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+oncDoc2 oncPat1nursingItem addNote doctor oncology oncTeam1 HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+oncDoc2 oncPat1noteItem read doctor oncology oncTeam1 HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+oncDoc2 oncPat1noteItem addItem doctor oncology oncTeam1 HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+oncDoc2 oncPat1noteItem addNote doctor oncology oncTeam1 HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+oncDoc2 oncPat1HR read doctor oncology oncTeam1 HR oncPat1 oncTeam1 oncWard 0
+oncDoc2 oncPat1HR addItem doctor oncology oncTeam1 HR oncPat1 oncTeam1 oncWard 1
+oncDoc2 oncPat1HR addNote doctor oncology oncTeam1 HR oncPat1 oncTeam1 oncWard 0
+oncDoc2 oncPat2oncItem read doctor oncology oncTeam1 HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+oncDoc2 oncPat2oncItem addItem doctor oncology oncTeam1 HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+oncDoc2 oncPat2oncItem addNote doctor oncology oncTeam1 HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+oncDoc2 oncPat2nursingItem read doctor oncology oncTeam1 HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+oncDoc2 oncPat2nursingItem addItem doctor oncology oncTeam1 HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+oncDoc2 oncPat2nursingItem addNote doctor oncology oncTeam1 HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+oncDoc2 oncPat2noteItem read doctor oncology oncTeam1 HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+oncDoc2 oncPat2noteItem addItem doctor oncology oncTeam1 HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+oncDoc2 oncPat2noteItem addNote doctor oncology oncTeam1 HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+oncDoc2 oncPat2HR read doctor oncology oncTeam1 HR oncPat2 oncTeam2 oncWard 0
+oncDoc2 oncPat2HR addItem doctor oncology oncTeam1 HR oncPat2 oncTeam2 oncWard 0
+oncDoc2 oncPat2HR addNote doctor oncology oncTeam1 HR oncPat2 oncTeam2 oncWard 0
+oncDoc2 carPat1carItem read doctor oncology oncTeam1 HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+oncDoc2 carPat1carItem addItem doctor oncology oncTeam1 HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+oncDoc2 carPat1carItem addNote doctor oncology oncTeam1 HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+oncDoc2 carPat1nursingItem read doctor oncology oncTeam1 HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+oncDoc2 carPat1nursingItem addItem doctor oncology oncTeam1 HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+oncDoc2 carPat1nursingItem addNote doctor oncology oncTeam1 HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+oncDoc2 carPat1noteItem read doctor oncology oncTeam1 HRitem carPat1 carPat1 note carTeam1 carWard 0
+oncDoc2 carPat1noteItem addItem doctor oncology oncTeam1 HRitem carPat1 carPat1 note carTeam1 carWard 0
+oncDoc2 carPat1noteItem addNote doctor oncology oncTeam1 HRitem carPat1 carPat1 note carTeam1 carWard 0
+oncDoc2 carPat1HR read doctor oncology oncTeam1 HR carPat1 carTeam1 carWard 0
+oncDoc2 carPat1HR addItem doctor oncology oncTeam1 HR carPat1 carTeam1 carWard 0
+oncDoc2 carPat1HR addNote doctor oncology oncTeam1 HR carPat1 carTeam1 carWard 0
+oncDoc2 carPat2carItem read doctor oncology oncTeam1 HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+oncDoc2 carPat2carItem addItem doctor oncology oncTeam1 HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+oncDoc2 carPat2carItem addNote doctor oncology oncTeam1 HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+oncDoc2 carPat2nursingItem read doctor oncology oncTeam1 HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+oncDoc2 carPat2nursingItem addItem doctor oncology oncTeam1 HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+oncDoc2 carPat2nursingItem addNote doctor oncology oncTeam1 HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+oncDoc2 carPat2noteItem read doctor oncology oncTeam1 HRitem carAgent1 carPat2 note carTeam2 carWard 0
+oncDoc2 carPat2noteItem addItem doctor oncology oncTeam1 HRitem carAgent1 carPat2 note carTeam2 carWard 0
+oncDoc2 carPat2noteItem addNote doctor oncology oncTeam1 HRitem carAgent1 carPat2 note carTeam2 carWard 0
+oncDoc2 carPat2HR read doctor oncology oncTeam1 HR carPat2 carTeam2 carWard 0
+oncDoc2 carPat2HR addItem doctor oncology oncTeam1 HR carPat2 carTeam2 carWard 0
+oncDoc2 carPat2HR addNote doctor oncology oncTeam1 HR carPat2 carTeam2 carWard 0
+oncDoc3 oncPat1oncItem read doctor oncology oncTeam2 HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+oncDoc3 oncPat1oncItem addItem doctor oncology oncTeam2 HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+oncDoc3 oncPat1oncItem addNote doctor oncology oncTeam2 HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+oncDoc3 oncPat1nursingItem read doctor oncology oncTeam2 HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+oncDoc3 oncPat1nursingItem addItem doctor oncology oncTeam2 HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+oncDoc3 oncPat1nursingItem addNote doctor oncology oncTeam2 HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+oncDoc3 oncPat1noteItem read doctor oncology oncTeam2 HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+oncDoc3 oncPat1noteItem addItem doctor oncology oncTeam2 HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+oncDoc3 oncPat1noteItem addNote doctor oncology oncTeam2 HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+oncDoc3 oncPat1HR read doctor oncology oncTeam2 HR oncPat1 oncTeam1 oncWard 0
+oncDoc3 oncPat1HR addItem doctor oncology oncTeam2 HR oncPat1 oncTeam1 oncWard 0
+oncDoc3 oncPat1HR addNote doctor oncology oncTeam2 HR oncPat1 oncTeam1 oncWard 0
+oncDoc3 oncPat2oncItem read doctor oncology oncTeam2 HRitem doc1 oncPat2 oncology oncTeam2 oncWard 1
+oncDoc3 oncPat2oncItem addItem doctor oncology oncTeam2 HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+oncDoc3 oncPat2oncItem addNote doctor oncology oncTeam2 HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+oncDoc3 oncPat2nursingItem read doctor oncology oncTeam2 HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+oncDoc3 oncPat2nursingItem addItem doctor oncology oncTeam2 HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+oncDoc3 oncPat2nursingItem addNote doctor oncology oncTeam2 HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+oncDoc3 oncPat2noteItem read doctor oncology oncTeam2 HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+oncDoc3 oncPat2noteItem addItem doctor oncology oncTeam2 HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+oncDoc3 oncPat2noteItem addNote doctor oncology oncTeam2 HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+oncDoc3 oncPat2HR read doctor oncology oncTeam2 HR oncPat2 oncTeam2 oncWard 0
+oncDoc3 oncPat2HR addItem doctor oncology oncTeam2 HR oncPat2 oncTeam2 oncWard 1
+oncDoc3 oncPat2HR addNote doctor oncology oncTeam2 HR oncPat2 oncTeam2 oncWard 0
+oncDoc3 carPat1carItem read doctor oncology oncTeam2 HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+oncDoc3 carPat1carItem addItem doctor oncology oncTeam2 HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+oncDoc3 carPat1carItem addNote doctor oncology oncTeam2 HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+oncDoc3 carPat1nursingItem read doctor oncology oncTeam2 HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+oncDoc3 carPat1nursingItem addItem doctor oncology oncTeam2 HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+oncDoc3 carPat1nursingItem addNote doctor oncology oncTeam2 HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+oncDoc3 carPat1noteItem read doctor oncology oncTeam2 HRitem carPat1 carPat1 note carTeam1 carWard 0
+oncDoc3 carPat1noteItem addItem doctor oncology oncTeam2 HRitem carPat1 carPat1 note carTeam1 carWard 0
+oncDoc3 carPat1noteItem addNote doctor oncology oncTeam2 HRitem carPat1 carPat1 note carTeam1 carWard 0
+oncDoc3 carPat1HR read doctor oncology oncTeam2 HR carPat1 carTeam1 carWard 0
+oncDoc3 carPat1HR addItem doctor oncology oncTeam2 HR carPat1 carTeam1 carWard 0
+oncDoc3 carPat1HR addNote doctor oncology oncTeam2 HR carPat1 carTeam1 carWard 0
+oncDoc3 carPat2carItem read doctor oncology oncTeam2 HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+oncDoc3 carPat2carItem addItem doctor oncology oncTeam2 HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+oncDoc3 carPat2carItem addNote doctor oncology oncTeam2 HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+oncDoc3 carPat2nursingItem read doctor oncology oncTeam2 HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+oncDoc3 carPat2nursingItem addItem doctor oncology oncTeam2 HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+oncDoc3 carPat2nursingItem addNote doctor oncology oncTeam2 HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+oncDoc3 carPat2noteItem read doctor oncology oncTeam2 HRitem carAgent1 carPat2 note carTeam2 carWard 0
+oncDoc3 carPat2noteItem addItem doctor oncology oncTeam2 HRitem carAgent1 carPat2 note carTeam2 carWard 0
+oncDoc3 carPat2noteItem addNote doctor oncology oncTeam2 HRitem carAgent1 carPat2 note carTeam2 carWard 0
+oncDoc3 carPat2HR read doctor oncology oncTeam2 HR carPat2 carTeam2 carWard 0
+oncDoc3 carPat2HR addItem doctor oncology oncTeam2 HR carPat2 carTeam2 carWard 0
+oncDoc3 carPat2HR addNote doctor oncology oncTeam2 HR carPat2 carTeam2 carWard 0
+oncDoc4 oncPat1oncItem read doctor oncology oncTeam2 HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+oncDoc4 oncPat1oncItem addItem doctor oncology oncTeam2 HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+oncDoc4 oncPat1oncItem addNote doctor oncology oncTeam2 HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+oncDoc4 oncPat1nursingItem read doctor oncology oncTeam2 HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+oncDoc4 oncPat1nursingItem addItem doctor oncology oncTeam2 HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+oncDoc4 oncPat1nursingItem addNote doctor oncology oncTeam2 HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+oncDoc4 oncPat1noteItem read doctor oncology oncTeam2 HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+oncDoc4 oncPat1noteItem addItem doctor oncology oncTeam2 HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+oncDoc4 oncPat1noteItem addNote doctor oncology oncTeam2 HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+oncDoc4 oncPat1HR read doctor oncology oncTeam2 HR oncPat1 oncTeam1 oncWard 0
+oncDoc4 oncPat1HR addItem doctor oncology oncTeam2 HR oncPat1 oncTeam1 oncWard 0
+oncDoc4 oncPat1HR addNote doctor oncology oncTeam2 HR oncPat1 oncTeam1 oncWard 0
+oncDoc4 oncPat2oncItem read doctor oncology oncTeam2 HRitem doc1 oncPat2 oncology oncTeam2 oncWard 1
+oncDoc4 oncPat2oncItem addItem doctor oncology oncTeam2 HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+oncDoc4 oncPat2oncItem addNote doctor oncology oncTeam2 HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+oncDoc4 oncPat2nursingItem read doctor oncology oncTeam2 HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+oncDoc4 oncPat2nursingItem addItem doctor oncology oncTeam2 HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+oncDoc4 oncPat2nursingItem addNote doctor oncology oncTeam2 HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+oncDoc4 oncPat2noteItem read doctor oncology oncTeam2 HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+oncDoc4 oncPat2noteItem addItem doctor oncology oncTeam2 HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+oncDoc4 oncPat2noteItem addNote doctor oncology oncTeam2 HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+oncDoc4 oncPat2HR read doctor oncology oncTeam2 HR oncPat2 oncTeam2 oncWard 0
+oncDoc4 oncPat2HR addItem doctor oncology oncTeam2 HR oncPat2 oncTeam2 oncWard 1
+oncDoc4 oncPat2HR addNote doctor oncology oncTeam2 HR oncPat2 oncTeam2 oncWard 0
+oncDoc4 carPat1carItem read doctor oncology oncTeam2 HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+oncDoc4 carPat1carItem addItem doctor oncology oncTeam2 HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+oncDoc4 carPat1carItem addNote doctor oncology oncTeam2 HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+oncDoc4 carPat1nursingItem read doctor oncology oncTeam2 HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+oncDoc4 carPat1nursingItem addItem doctor oncology oncTeam2 HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+oncDoc4 carPat1nursingItem addNote doctor oncology oncTeam2 HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+oncDoc4 carPat1noteItem read doctor oncology oncTeam2 HRitem carPat1 carPat1 note carTeam1 carWard 0
+oncDoc4 carPat1noteItem addItem doctor oncology oncTeam2 HRitem carPat1 carPat1 note carTeam1 carWard 0
+oncDoc4 carPat1noteItem addNote doctor oncology oncTeam2 HRitem carPat1 carPat1 note carTeam1 carWard 0
+oncDoc4 carPat1HR read doctor oncology oncTeam2 HR carPat1 carTeam1 carWard 0
+oncDoc4 carPat1HR addItem doctor oncology oncTeam2 HR carPat1 carTeam1 carWard 0
+oncDoc4 carPat1HR addNote doctor oncology oncTeam2 HR carPat1 carTeam1 carWard 0
+oncDoc4 carPat2carItem read doctor oncology oncTeam2 HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+oncDoc4 carPat2carItem addItem doctor oncology oncTeam2 HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+oncDoc4 carPat2carItem addNote doctor oncology oncTeam2 HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+oncDoc4 carPat2nursingItem read doctor oncology oncTeam2 HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+oncDoc4 carPat2nursingItem addItem doctor oncology oncTeam2 HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+oncDoc4 carPat2nursingItem addNote doctor oncology oncTeam2 HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+oncDoc4 carPat2noteItem read doctor oncology oncTeam2 HRitem carAgent1 carPat2 note carTeam2 carWard 0
+oncDoc4 carPat2noteItem addItem doctor oncology oncTeam2 HRitem carAgent1 carPat2 note carTeam2 carWard 0
+oncDoc4 carPat2noteItem addNote doctor oncology oncTeam2 HRitem carAgent1 carPat2 note carTeam2 carWard 0
+oncDoc4 carPat2HR read doctor oncology oncTeam2 HR carPat2 carTeam2 carWard 0
+oncDoc4 carPat2HR addItem doctor oncology oncTeam2 HR carPat2 carTeam2 carWard 0
+oncDoc4 carPat2HR addNote doctor oncology oncTeam2 HR carPat2 carTeam2 carWard 0
+carDoc1 oncPat1oncItem read doctor cardiology carTeam1 HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+carDoc1 oncPat1oncItem addItem doctor cardiology carTeam1 HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+carDoc1 oncPat1oncItem addNote doctor cardiology carTeam1 HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+carDoc1 oncPat1nursingItem read doctor cardiology carTeam1 HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+carDoc1 oncPat1nursingItem addItem doctor cardiology carTeam1 HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+carDoc1 oncPat1nursingItem addNote doctor cardiology carTeam1 HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+carDoc1 oncPat1noteItem read doctor cardiology carTeam1 HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+carDoc1 oncPat1noteItem addItem doctor cardiology carTeam1 HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+carDoc1 oncPat1noteItem addNote doctor cardiology carTeam1 HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+carDoc1 oncPat1HR read doctor cardiology carTeam1 HR oncPat1 oncTeam1 oncWard 0
+carDoc1 oncPat1HR addItem doctor cardiology carTeam1 HR oncPat1 oncTeam1 oncWard 0
+carDoc1 oncPat1HR addNote doctor cardiology carTeam1 HR oncPat1 oncTeam1 oncWard 0
+carDoc1 oncPat2oncItem read doctor cardiology carTeam1 HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+carDoc1 oncPat2oncItem addItem doctor cardiology carTeam1 HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+carDoc1 oncPat2oncItem addNote doctor cardiology carTeam1 HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+carDoc1 oncPat2nursingItem read doctor cardiology carTeam1 HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+carDoc1 oncPat2nursingItem addItem doctor cardiology carTeam1 HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+carDoc1 oncPat2nursingItem addNote doctor cardiology carTeam1 HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+carDoc1 oncPat2noteItem read doctor cardiology carTeam1 HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+carDoc1 oncPat2noteItem addItem doctor cardiology carTeam1 HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+carDoc1 oncPat2noteItem addNote doctor cardiology carTeam1 HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+carDoc1 oncPat2HR read doctor cardiology carTeam1 HR oncPat2 oncTeam2 oncWard 0
+carDoc1 oncPat2HR addItem doctor cardiology carTeam1 HR oncPat2 oncTeam2 oncWard 0
+carDoc1 oncPat2HR addNote doctor cardiology carTeam1 HR oncPat2 oncTeam2 oncWard 0
+carDoc1 carPat1carItem read doctor cardiology carTeam1 HRitem carDoc2 carPat1 cardiology carTeam1 carWard 1
+carDoc1 carPat1carItem addItem doctor cardiology carTeam1 HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+carDoc1 carPat1carItem addNote doctor cardiology carTeam1 HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+carDoc1 carPat1nursingItem read doctor cardiology carTeam1 HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+carDoc1 carPat1nursingItem addItem doctor cardiology carTeam1 HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+carDoc1 carPat1nursingItem addNote doctor cardiology carTeam1 HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+carDoc1 carPat1noteItem read doctor cardiology carTeam1 HRitem carPat1 carPat1 note carTeam1 carWard 0
+carDoc1 carPat1noteItem addItem doctor cardiology carTeam1 HRitem carPat1 carPat1 note carTeam1 carWard 0
+carDoc1 carPat1noteItem addNote doctor cardiology carTeam1 HRitem carPat1 carPat1 note carTeam1 carWard 0
+carDoc1 carPat1HR read doctor cardiology carTeam1 HR carPat1 carTeam1 carWard 0
+carDoc1 carPat1HR addItem doctor cardiology carTeam1 HR carPat1 carTeam1 carWard 1
+carDoc1 carPat1HR addNote doctor cardiology carTeam1 HR carPat1 carTeam1 carWard 0
+carDoc1 carPat2carItem read doctor cardiology carTeam1 HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+carDoc1 carPat2carItem addItem doctor cardiology carTeam1 HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+carDoc1 carPat2carItem addNote doctor cardiology carTeam1 HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+carDoc1 carPat2nursingItem read doctor cardiology carTeam1 HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+carDoc1 carPat2nursingItem addItem doctor cardiology carTeam1 HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+carDoc1 carPat2nursingItem addNote doctor cardiology carTeam1 HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+carDoc1 carPat2noteItem read doctor cardiology carTeam1 HRitem carAgent1 carPat2 note carTeam2 carWard 0
+carDoc1 carPat2noteItem addItem doctor cardiology carTeam1 HRitem carAgent1 carPat2 note carTeam2 carWard 0
+carDoc1 carPat2noteItem addNote doctor cardiology carTeam1 HRitem carAgent1 carPat2 note carTeam2 carWard 0
+carDoc1 carPat2HR read doctor cardiology carTeam1 HR carPat2 carTeam2 carWard 0
+carDoc1 carPat2HR addItem doctor cardiology carTeam1 HR carPat2 carTeam2 carWard 0
+carDoc1 carPat2HR addNote doctor cardiology carTeam1 HR carPat2 carTeam2 carWard 0
+carDoc2 oncPat1oncItem read doctor cardiology carTeam2 HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+carDoc2 oncPat1oncItem addItem doctor cardiology carTeam2 HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+carDoc2 oncPat1oncItem addNote doctor cardiology carTeam2 HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+carDoc2 oncPat1nursingItem read doctor cardiology carTeam2 HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+carDoc2 oncPat1nursingItem addItem doctor cardiology carTeam2 HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+carDoc2 oncPat1nursingItem addNote doctor cardiology carTeam2 HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+carDoc2 oncPat1noteItem read doctor cardiology carTeam2 HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+carDoc2 oncPat1noteItem addItem doctor cardiology carTeam2 HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+carDoc2 oncPat1noteItem addNote doctor cardiology carTeam2 HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+carDoc2 oncPat1HR read doctor cardiology carTeam2 HR oncPat1 oncTeam1 oncWard 0
+carDoc2 oncPat1HR addItem doctor cardiology carTeam2 HR oncPat1 oncTeam1 oncWard 0
+carDoc2 oncPat1HR addNote doctor cardiology carTeam2 HR oncPat1 oncTeam1 oncWard 0
+carDoc2 oncPat2oncItem read doctor cardiology carTeam2 HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+carDoc2 oncPat2oncItem addItem doctor cardiology carTeam2 HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+carDoc2 oncPat2oncItem addNote doctor cardiology carTeam2 HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+carDoc2 oncPat2nursingItem read doctor cardiology carTeam2 HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+carDoc2 oncPat2nursingItem addItem doctor cardiology carTeam2 HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+carDoc2 oncPat2nursingItem addNote doctor cardiology carTeam2 HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+carDoc2 oncPat2noteItem read doctor cardiology carTeam2 HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+carDoc2 oncPat2noteItem addItem doctor cardiology carTeam2 HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+carDoc2 oncPat2noteItem addNote doctor cardiology carTeam2 HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+carDoc2 oncPat2HR read doctor cardiology carTeam2 HR oncPat2 oncTeam2 oncWard 0
+carDoc2 oncPat2HR addItem doctor cardiology carTeam2 HR oncPat2 oncTeam2 oncWard 0
+carDoc2 oncPat2HR addNote doctor cardiology carTeam2 HR oncPat2 oncTeam2 oncWard 0
+carDoc2 carPat1carItem read doctor cardiology carTeam2 HRitem carDoc2 carPat1 cardiology carTeam1 carWard 1
+carDoc2 carPat1carItem addItem doctor cardiology carTeam2 HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+carDoc2 carPat1carItem addNote doctor cardiology carTeam2 HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+carDoc2 carPat1nursingItem read doctor cardiology carTeam2 HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+carDoc2 carPat1nursingItem addItem doctor cardiology carTeam2 HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+carDoc2 carPat1nursingItem addNote doctor cardiology carTeam2 HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+carDoc2 carPat1noteItem read doctor cardiology carTeam2 HRitem carPat1 carPat1 note carTeam1 carWard 0
+carDoc2 carPat1noteItem addItem doctor cardiology carTeam2 HRitem carPat1 carPat1 note carTeam1 carWard 0
+carDoc2 carPat1noteItem addNote doctor cardiology carTeam2 HRitem carPat1 carPat1 note carTeam1 carWard 0
+carDoc2 carPat1HR read doctor cardiology carTeam2 HR carPat1 carTeam1 carWard 0
+carDoc2 carPat1HR addItem doctor cardiology carTeam2 HR carPat1 carTeam1 carWard 0
+carDoc2 carPat1HR addNote doctor cardiology carTeam2 HR carPat1 carTeam1 carWard 0
+carDoc2 carPat2carItem read doctor cardiology carTeam2 HRitem doc2 carPat2 cardiology carTeam2 carWard 1
+carDoc2 carPat2carItem addItem doctor cardiology carTeam2 HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+carDoc2 carPat2carItem addNote doctor cardiology carTeam2 HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+carDoc2 carPat2nursingItem read doctor cardiology carTeam2 HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+carDoc2 carPat2nursingItem addItem doctor cardiology carTeam2 HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+carDoc2 carPat2nursingItem addNote doctor cardiology carTeam2 HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+carDoc2 carPat2noteItem read doctor cardiology carTeam2 HRitem carAgent1 carPat2 note carTeam2 carWard 0
+carDoc2 carPat2noteItem addItem doctor cardiology carTeam2 HRitem carAgent1 carPat2 note carTeam2 carWard 0
+carDoc2 carPat2noteItem addNote doctor cardiology carTeam2 HRitem carAgent1 carPat2 note carTeam2 carWard 0
+carDoc2 carPat2HR read doctor cardiology carTeam2 HR carPat2 carTeam2 carWard 0
+carDoc2 carPat2HR addItem doctor cardiology carTeam2 HR carPat2 carTeam2 carWard 1
+carDoc2 carPat2HR addNote doctor cardiology carTeam2 HR carPat2 carTeam2 carWard 0
+anesDoc1 oncPat1oncItem read doctor anesthesiology oncTeam1,carTeam1 HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+anesDoc1 oncPat1oncItem addItem doctor anesthesiology oncTeam1,carTeam1 HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+anesDoc1 oncPat1oncItem addNote doctor anesthesiology oncTeam1,carTeam1 HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+anesDoc1 oncPat1nursingItem read doctor anesthesiology oncTeam1,carTeam1 HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+anesDoc1 oncPat1nursingItem addItem doctor anesthesiology oncTeam1,carTeam1 HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+anesDoc1 oncPat1nursingItem addNote doctor anesthesiology oncTeam1,carTeam1 HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+anesDoc1 oncPat1noteItem read doctor anesthesiology oncTeam1,carTeam1 HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+anesDoc1 oncPat1noteItem addItem doctor anesthesiology oncTeam1,carTeam1 HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+anesDoc1 oncPat1noteItem addNote doctor anesthesiology oncTeam1,carTeam1 HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+anesDoc1 oncPat1HR read doctor anesthesiology oncTeam1,carTeam1 HR oncPat1 oncTeam1 oncWard 0
+anesDoc1 oncPat1HR addItem doctor anesthesiology oncTeam1,carTeam1 HR oncPat1 oncTeam1 oncWard 1
+anesDoc1 oncPat1HR addNote doctor anesthesiology oncTeam1,carTeam1 HR oncPat1 oncTeam1 oncWard 0
+anesDoc1 oncPat2oncItem read doctor anesthesiology oncTeam1,carTeam1 HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+anesDoc1 oncPat2oncItem addItem doctor anesthesiology oncTeam1,carTeam1 HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+anesDoc1 oncPat2oncItem addNote doctor anesthesiology oncTeam1,carTeam1 HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+anesDoc1 oncPat2nursingItem read doctor anesthesiology oncTeam1,carTeam1 HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+anesDoc1 oncPat2nursingItem addItem doctor anesthesiology oncTeam1,carTeam1 HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+anesDoc1 oncPat2nursingItem addNote doctor anesthesiology oncTeam1,carTeam1 HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+anesDoc1 oncPat2noteItem read doctor anesthesiology oncTeam1,carTeam1 HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+anesDoc1 oncPat2noteItem addItem doctor anesthesiology oncTeam1,carTeam1 HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+anesDoc1 oncPat2noteItem addNote doctor anesthesiology oncTeam1,carTeam1 HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+anesDoc1 oncPat2HR read doctor anesthesiology oncTeam1,carTeam1 HR oncPat2 oncTeam2 oncWard 0
+anesDoc1 oncPat2HR addItem doctor anesthesiology oncTeam1,carTeam1 HR oncPat2 oncTeam2 oncWard 0
+anesDoc1 oncPat2HR addNote doctor anesthesiology oncTeam1,carTeam1 HR oncPat2 oncTeam2 oncWard 0
+anesDoc1 carPat1carItem read doctor anesthesiology oncTeam1,carTeam1 HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+anesDoc1 carPat1carItem addItem doctor anesthesiology oncTeam1,carTeam1 HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+anesDoc1 carPat1carItem addNote doctor anesthesiology oncTeam1,carTeam1 HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+anesDoc1 carPat1nursingItem read doctor anesthesiology oncTeam1,carTeam1 HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+anesDoc1 carPat1nursingItem addItem doctor anesthesiology oncTeam1,carTeam1 HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+anesDoc1 carPat1nursingItem addNote doctor anesthesiology oncTeam1,carTeam1 HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+anesDoc1 carPat1noteItem read doctor anesthesiology oncTeam1,carTeam1 HRitem carPat1 carPat1 note carTeam1 carWard 0
+anesDoc1 carPat1noteItem addItem doctor anesthesiology oncTeam1,carTeam1 HRitem carPat1 carPat1 note carTeam1 carWard 0
+anesDoc1 carPat1noteItem addNote doctor anesthesiology oncTeam1,carTeam1 HRitem carPat1 carPat1 note carTeam1 carWard 0
+anesDoc1 carPat1HR read doctor anesthesiology oncTeam1,carTeam1 HR carPat1 carTeam1 carWard 0
+anesDoc1 carPat1HR addItem doctor anesthesiology oncTeam1,carTeam1 HR carPat1 carTeam1 carWard 1
+anesDoc1 carPat1HR addNote doctor anesthesiology oncTeam1,carTeam1 HR carPat1 carTeam1 carWard 0
+anesDoc1 carPat2carItem read doctor anesthesiology oncTeam1,carTeam1 HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+anesDoc1 carPat2carItem addItem doctor anesthesiology oncTeam1,carTeam1 HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+anesDoc1 carPat2carItem addNote doctor anesthesiology oncTeam1,carTeam1 HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+anesDoc1 carPat2nursingItem read doctor anesthesiology oncTeam1,carTeam1 HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+anesDoc1 carPat2nursingItem addItem doctor anesthesiology oncTeam1,carTeam1 HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+anesDoc1 carPat2nursingItem addNote doctor anesthesiology oncTeam1,carTeam1 HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+anesDoc1 carPat2noteItem read doctor anesthesiology oncTeam1,carTeam1 HRitem carAgent1 carPat2 note carTeam2 carWard 0
+anesDoc1 carPat2noteItem addItem doctor anesthesiology oncTeam1,carTeam1 HRitem carAgent1 carPat2 note carTeam2 carWard 0
+anesDoc1 carPat2noteItem addNote doctor anesthesiology oncTeam1,carTeam1 HRitem carAgent1 carPat2 note carTeam2 carWard 0
+anesDoc1 carPat2HR read doctor anesthesiology oncTeam1,carTeam1 HR carPat2 carTeam2 carWard 0
+anesDoc1 carPat2HR addItem doctor anesthesiology oncTeam1,carTeam1 HR carPat2 carTeam2 carWard 0
+anesDoc1 carPat2HR addNote doctor anesthesiology oncTeam1,carTeam1 HR carPat2 carTeam2 carWard 0
+doc1 oncPat1oncItem read doctor oncology,pediatrics HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+doc1 oncPat1oncItem addItem doctor oncology,pediatrics HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+doc1 oncPat1oncItem addNote doctor oncology,pediatrics HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+doc1 oncPat1nursingItem read doctor oncology,pediatrics HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+doc1 oncPat1nursingItem addItem doctor oncology,pediatrics HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+doc1 oncPat1nursingItem addNote doctor oncology,pediatrics HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+doc1 oncPat1noteItem read doctor oncology,pediatrics HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+doc1 oncPat1noteItem addItem doctor oncology,pediatrics HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+doc1 oncPat1noteItem addNote doctor oncology,pediatrics HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+doc1 oncPat1HR read doctor oncology,pediatrics HR oncPat1 oncTeam1 oncWard 0
+doc1 oncPat1HR addItem doctor oncology,pediatrics HR oncPat1 oncTeam1 oncWard 0
+doc1 oncPat1HR addNote doctor oncology,pediatrics HR oncPat1 oncTeam1 oncWard 0
+doc1 oncPat2oncItem read doctor oncology,pediatrics HRitem doc1 oncPat2 oncology oncTeam2 oncWard 1
+doc1 oncPat2oncItem addItem doctor oncology,pediatrics HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+doc1 oncPat2oncItem addNote doctor oncology,pediatrics HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+doc1 oncPat2nursingItem read doctor oncology,pediatrics HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+doc1 oncPat2nursingItem addItem doctor oncology,pediatrics HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+doc1 oncPat2nursingItem addNote doctor oncology,pediatrics HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+doc1 oncPat2noteItem read doctor oncology,pediatrics HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+doc1 oncPat2noteItem addItem doctor oncology,pediatrics HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+doc1 oncPat2noteItem addNote doctor oncology,pediatrics HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+doc1 oncPat2HR read doctor oncology,pediatrics HR oncPat2 oncTeam2 oncWard 0
+doc1 oncPat2HR addItem doctor oncology,pediatrics HR oncPat2 oncTeam2 oncWard 0
+doc1 oncPat2HR addNote doctor oncology,pediatrics HR oncPat2 oncTeam2 oncWard 0
+doc1 carPat1carItem read doctor oncology,pediatrics HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+doc1 carPat1carItem addItem doctor oncology,pediatrics HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+doc1 carPat1carItem addNote doctor oncology,pediatrics HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+doc1 carPat1nursingItem read doctor oncology,pediatrics HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+doc1 carPat1nursingItem addItem doctor oncology,pediatrics HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+doc1 carPat1nursingItem addNote doctor oncology,pediatrics HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+doc1 carPat1noteItem read doctor oncology,pediatrics HRitem carPat1 carPat1 note carTeam1 carWard 0
+doc1 carPat1noteItem addItem doctor oncology,pediatrics HRitem carPat1 carPat1 note carTeam1 carWard 0
+doc1 carPat1noteItem addNote doctor oncology,pediatrics HRitem carPat1 carPat1 note carTeam1 carWard 0
+doc1 carPat1HR read doctor oncology,pediatrics HR carPat1 carTeam1 carWard 0
+doc1 carPat1HR addItem doctor oncology,pediatrics HR carPat1 carTeam1 carWard 0
+doc1 carPat1HR addNote doctor oncology,pediatrics HR carPat1 carTeam1 carWard 0
+doc1 carPat2carItem read doctor oncology,pediatrics HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+doc1 carPat2carItem addItem doctor oncology,pediatrics HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+doc1 carPat2carItem addNote doctor oncology,pediatrics HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+doc1 carPat2nursingItem read doctor oncology,pediatrics HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+doc1 carPat2nursingItem addItem doctor oncology,pediatrics HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+doc1 carPat2nursingItem addNote doctor oncology,pediatrics HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+doc1 carPat2noteItem read doctor oncology,pediatrics HRitem carAgent1 carPat2 note carTeam2 carWard 0
+doc1 carPat2noteItem addItem doctor oncology,pediatrics HRitem carAgent1 carPat2 note carTeam2 carWard 0
+doc1 carPat2noteItem addNote doctor oncology,pediatrics HRitem carAgent1 carPat2 note carTeam2 carWard 0
+doc1 carPat2HR read doctor oncology,pediatrics HR carPat2 carTeam2 carWard 0
+doc1 carPat2HR addItem doctor oncology,pediatrics HR carPat2 carTeam2 carWard 0
+doc1 carPat2HR addNote doctor oncology,pediatrics HR carPat2 carTeam2 carWard 0
+doc2 oncPat1oncItem read doctor cardiology,neurology HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+doc2 oncPat1oncItem addItem doctor cardiology,neurology HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+doc2 oncPat1oncItem addNote doctor cardiology,neurology HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+doc2 oncPat1nursingItem read doctor cardiology,neurology HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+doc2 oncPat1nursingItem addItem doctor cardiology,neurology HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+doc2 oncPat1nursingItem addNote doctor cardiology,neurology HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+doc2 oncPat1noteItem read doctor cardiology,neurology HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+doc2 oncPat1noteItem addItem doctor cardiology,neurology HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+doc2 oncPat1noteItem addNote doctor cardiology,neurology HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+doc2 oncPat1HR read doctor cardiology,neurology HR oncPat1 oncTeam1 oncWard 0
+doc2 oncPat1HR addItem doctor cardiology,neurology HR oncPat1 oncTeam1 oncWard 0
+doc2 oncPat1HR addNote doctor cardiology,neurology HR oncPat1 oncTeam1 oncWard 0
+doc2 oncPat2oncItem read doctor cardiology,neurology HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+doc2 oncPat2oncItem addItem doctor cardiology,neurology HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+doc2 oncPat2oncItem addNote doctor cardiology,neurology HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+doc2 oncPat2nursingItem read doctor cardiology,neurology HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+doc2 oncPat2nursingItem addItem doctor cardiology,neurology HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+doc2 oncPat2nursingItem addNote doctor cardiology,neurology HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+doc2 oncPat2noteItem read doctor cardiology,neurology HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+doc2 oncPat2noteItem addItem doctor cardiology,neurology HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+doc2 oncPat2noteItem addNote doctor cardiology,neurology HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+doc2 oncPat2HR read doctor cardiology,neurology HR oncPat2 oncTeam2 oncWard 0
+doc2 oncPat2HR addItem doctor cardiology,neurology HR oncPat2 oncTeam2 oncWard 0
+doc2 oncPat2HR addNote doctor cardiology,neurology HR oncPat2 oncTeam2 oncWard 0
+doc2 carPat1carItem read doctor cardiology,neurology HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+doc2 carPat1carItem addItem doctor cardiology,neurology HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+doc2 carPat1carItem addNote doctor cardiology,neurology HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+doc2 carPat1nursingItem read doctor cardiology,neurology HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+doc2 carPat1nursingItem addItem doctor cardiology,neurology HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+doc2 carPat1nursingItem addNote doctor cardiology,neurology HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+doc2 carPat1noteItem read doctor cardiology,neurology HRitem carPat1 carPat1 note carTeam1 carWard 0
+doc2 carPat1noteItem addItem doctor cardiology,neurology HRitem carPat1 carPat1 note carTeam1 carWard 0
+doc2 carPat1noteItem addNote doctor cardiology,neurology HRitem carPat1 carPat1 note carTeam1 carWard 0
+doc2 carPat1HR read doctor cardiology,neurology HR carPat1 carTeam1 carWard 0
+doc2 carPat1HR addItem doctor cardiology,neurology HR carPat1 carTeam1 carWard 0
+doc2 carPat1HR addNote doctor cardiology,neurology HR carPat1 carTeam1 carWard 0
+doc2 carPat2carItem read doctor cardiology,neurology HRitem doc2 carPat2 cardiology carTeam2 carWard 1
+doc2 carPat2carItem addItem doctor cardiology,neurology HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+doc2 carPat2carItem addNote doctor cardiology,neurology HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+doc2 carPat2nursingItem read doctor cardiology,neurology HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+doc2 carPat2nursingItem addItem doctor cardiology,neurology HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+doc2 carPat2nursingItem addNote doctor cardiology,neurology HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+doc2 carPat2noteItem read doctor cardiology,neurology HRitem carAgent1 carPat2 note carTeam2 carWard 0
+doc2 carPat2noteItem addItem doctor cardiology,neurology HRitem carAgent1 carPat2 note carTeam2 carWard 0
+doc2 carPat2noteItem addNote doctor cardiology,neurology HRitem carAgent1 carPat2 note carTeam2 carWard 0
+doc2 carPat2HR read doctor cardiology,neurology HR carPat2 carTeam2 carWard 0
+doc2 carPat2HR addItem doctor cardiology,neurology HR carPat2 carTeam2 carWard 0
+doc2 carPat2HR addNote doctor cardiology,neurology HR carPat2 carTeam2 carWard 0
+oncPat1 oncPat1oncItem read oncWard HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+oncPat1 oncPat1oncItem addItem oncWard HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+oncPat1 oncPat1oncItem addNote oncWard HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+oncPat1 oncPat1nursingItem read oncWard HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+oncPat1 oncPat1nursingItem addItem oncWard HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+oncPat1 oncPat1nursingItem addNote oncWard HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+oncPat1 oncPat1noteItem read oncWard HRitem oncPat1 oncPat1 note oncTeam1 oncWard 1
+oncPat1 oncPat1noteItem addItem oncWard HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+oncPat1 oncPat1noteItem addNote oncWard HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+oncPat1 oncPat1HR read oncWard HR oncPat1 oncTeam1 oncWard 0
+oncPat1 oncPat1HR addItem oncWard HR oncPat1 oncTeam1 oncWard 0
+oncPat1 oncPat1HR addNote oncWard HR oncPat1 oncTeam1 oncWard 1
+oncPat1 oncPat2oncItem read oncWard HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+oncPat1 oncPat2oncItem addItem oncWard HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+oncPat1 oncPat2oncItem addNote oncWard HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+oncPat1 oncPat2nursingItem read oncWard HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+oncPat1 oncPat2nursingItem addItem oncWard HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+oncPat1 oncPat2nursingItem addNote oncWard HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+oncPat1 oncPat2noteItem read oncWard HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+oncPat1 oncPat2noteItem addItem oncWard HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+oncPat1 oncPat2noteItem addNote oncWard HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+oncPat1 oncPat2HR read oncWard HR oncPat2 oncTeam2 oncWard 0
+oncPat1 oncPat2HR addItem oncWard HR oncPat2 oncTeam2 oncWard 0
+oncPat1 oncPat2HR addNote oncWard HR oncPat2 oncTeam2 oncWard 0
+oncPat1 carPat1carItem read oncWard HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+oncPat1 carPat1carItem addItem oncWard HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+oncPat1 carPat1carItem addNote oncWard HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+oncPat1 carPat1nursingItem read oncWard HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+oncPat1 carPat1nursingItem addItem oncWard HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+oncPat1 carPat1nursingItem addNote oncWard HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+oncPat1 carPat1noteItem read oncWard HRitem carPat1 carPat1 note carTeam1 carWard 0
+oncPat1 carPat1noteItem addItem oncWard HRitem carPat1 carPat1 note carTeam1 carWard 0
+oncPat1 carPat1noteItem addNote oncWard HRitem carPat1 carPat1 note carTeam1 carWard 0
+oncPat1 carPat1HR read oncWard HR carPat1 carTeam1 carWard 0
+oncPat1 carPat1HR addItem oncWard HR carPat1 carTeam1 carWard 0
+oncPat1 carPat1HR addNote oncWard HR carPat1 carTeam1 carWard 0
+oncPat1 carPat2carItem read oncWard HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+oncPat1 carPat2carItem addItem oncWard HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+oncPat1 carPat2carItem addNote oncWard HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+oncPat1 carPat2nursingItem read oncWard HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+oncPat1 carPat2nursingItem addItem oncWard HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+oncPat1 carPat2nursingItem addNote oncWard HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+oncPat1 carPat2noteItem read oncWard HRitem carAgent1 carPat2 note carTeam2 carWard 0
+oncPat1 carPat2noteItem addItem oncWard HRitem carAgent1 carPat2 note carTeam2 carWard 0
+oncPat1 carPat2noteItem addNote oncWard HRitem carAgent1 carPat2 note carTeam2 carWard 0
+oncPat1 carPat2HR read oncWard HR carPat2 carTeam2 carWard 0
+oncPat1 carPat2HR addItem oncWard HR carPat2 carTeam2 carWard 0
+oncPat1 carPat2HR addNote oncWard HR carPat2 carTeam2 carWard 0
+oncPat2 oncPat1oncItem read oncWard HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+oncPat2 oncPat1oncItem addItem oncWard HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+oncPat2 oncPat1oncItem addNote oncWard HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+oncPat2 oncPat1nursingItem read oncWard HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+oncPat2 oncPat1nursingItem addItem oncWard HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+oncPat2 oncPat1nursingItem addNote oncWard HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+oncPat2 oncPat1noteItem read oncWard HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+oncPat2 oncPat1noteItem addItem oncWard HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+oncPat2 oncPat1noteItem addNote oncWard HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+oncPat2 oncPat1HR read oncWard HR oncPat1 oncTeam1 oncWard 0
+oncPat2 oncPat1HR addItem oncWard HR oncPat1 oncTeam1 oncWard 0
+oncPat2 oncPat1HR addNote oncWard HR oncPat1 oncTeam1 oncWard 0
+oncPat2 oncPat2oncItem read oncWard HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+oncPat2 oncPat2oncItem addItem oncWard HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+oncPat2 oncPat2oncItem addNote oncWard HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+oncPat2 oncPat2nursingItem read oncWard HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+oncPat2 oncPat2nursingItem addItem oncWard HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+oncPat2 oncPat2nursingItem addNote oncWard HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+oncPat2 oncPat2noteItem read oncWard HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 1
+oncPat2 oncPat2noteItem addItem oncWard HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+oncPat2 oncPat2noteItem addNote oncWard HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+oncPat2 oncPat2HR read oncWard HR oncPat2 oncTeam2 oncWard 0
+oncPat2 oncPat2HR addItem oncWard HR oncPat2 oncTeam2 oncWard 0
+oncPat2 oncPat2HR addNote oncWard HR oncPat2 oncTeam2 oncWard 1
+oncPat2 carPat1carItem read oncWard HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+oncPat2 carPat1carItem addItem oncWard HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+oncPat2 carPat1carItem addNote oncWard HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+oncPat2 carPat1nursingItem read oncWard HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+oncPat2 carPat1nursingItem addItem oncWard HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+oncPat2 carPat1nursingItem addNote oncWard HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+oncPat2 carPat1noteItem read oncWard HRitem carPat1 carPat1 note carTeam1 carWard 0
+oncPat2 carPat1noteItem addItem oncWard HRitem carPat1 carPat1 note carTeam1 carWard 0
+oncPat2 carPat1noteItem addNote oncWard HRitem carPat1 carPat1 note carTeam1 carWard 0
+oncPat2 carPat1HR read oncWard HR carPat1 carTeam1 carWard 0
+oncPat2 carPat1HR addItem oncWard HR carPat1 carTeam1 carWard 0
+oncPat2 carPat1HR addNote oncWard HR carPat1 carTeam1 carWard 0
+oncPat2 carPat2carItem read oncWard HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+oncPat2 carPat2carItem addItem oncWard HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+oncPat2 carPat2carItem addNote oncWard HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+oncPat2 carPat2nursingItem read oncWard HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+oncPat2 carPat2nursingItem addItem oncWard HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+oncPat2 carPat2nursingItem addNote oncWard HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+oncPat2 carPat2noteItem read oncWard HRitem carAgent1 carPat2 note carTeam2 carWard 0
+oncPat2 carPat2noteItem addItem oncWard HRitem carAgent1 carPat2 note carTeam2 carWard 0
+oncPat2 carPat2noteItem addNote oncWard HRitem carAgent1 carPat2 note carTeam2 carWard 0
+oncPat2 carPat2HR read oncWard HR carPat2 carTeam2 carWard 0
+oncPat2 carPat2HR addItem oncWard HR carPat2 carTeam2 carWard 0
+oncPat2 carPat2HR addNote oncWard HR carPat2 carTeam2 carWard 0
+carPat1 oncPat1oncItem read carWard HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+carPat1 oncPat1oncItem addItem carWard HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+carPat1 oncPat1oncItem addNote carWard HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+carPat1 oncPat1nursingItem read carWard HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+carPat1 oncPat1nursingItem addItem carWard HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+carPat1 oncPat1nursingItem addNote carWard HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+carPat1 oncPat1noteItem read carWard HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+carPat1 oncPat1noteItem addItem carWard HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+carPat1 oncPat1noteItem addNote carWard HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+carPat1 oncPat1HR read carWard HR oncPat1 oncTeam1 oncWard 0
+carPat1 oncPat1HR addItem carWard HR oncPat1 oncTeam1 oncWard 0
+carPat1 oncPat1HR addNote carWard HR oncPat1 oncTeam1 oncWard 0
+carPat1 oncPat2oncItem read carWard HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+carPat1 oncPat2oncItem addItem carWard HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+carPat1 oncPat2oncItem addNote carWard HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+carPat1 oncPat2nursingItem read carWard HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+carPat1 oncPat2nursingItem addItem carWard HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+carPat1 oncPat2nursingItem addNote carWard HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+carPat1 oncPat2noteItem read carWard HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+carPat1 oncPat2noteItem addItem carWard HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+carPat1 oncPat2noteItem addNote carWard HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+carPat1 oncPat2HR read carWard HR oncPat2 oncTeam2 oncWard 0
+carPat1 oncPat2HR addItem carWard HR oncPat2 oncTeam2 oncWard 0
+carPat1 oncPat2HR addNote carWard HR oncPat2 oncTeam2 oncWard 0
+carPat1 carPat1carItem read carWard HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+carPat1 carPat1carItem addItem carWard HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+carPat1 carPat1carItem addNote carWard HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+carPat1 carPat1nursingItem read carWard HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+carPat1 carPat1nursingItem addItem carWard HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+carPat1 carPat1nursingItem addNote carWard HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+carPat1 carPat1noteItem read carWard HRitem carPat1 carPat1 note carTeam1 carWard 1
+carPat1 carPat1noteItem addItem carWard HRitem carPat1 carPat1 note carTeam1 carWard 0
+carPat1 carPat1noteItem addNote carWard HRitem carPat1 carPat1 note carTeam1 carWard 0
+carPat1 carPat1HR read carWard HR carPat1 carTeam1 carWard 0
+carPat1 carPat1HR addItem carWard HR carPat1 carTeam1 carWard 0
+carPat1 carPat1HR addNote carWard HR carPat1 carTeam1 carWard 1
+carPat1 carPat2carItem read carWard HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+carPat1 carPat2carItem addItem carWard HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+carPat1 carPat2carItem addNote carWard HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+carPat1 carPat2nursingItem read carWard HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+carPat1 carPat2nursingItem addItem carWard HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+carPat1 carPat2nursingItem addNote carWard HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+carPat1 carPat2noteItem read carWard HRitem carAgent1 carPat2 note carTeam2 carWard 0
+carPat1 carPat2noteItem addItem carWard HRitem carAgent1 carPat2 note carTeam2 carWard 0
+carPat1 carPat2noteItem addNote carWard HRitem carAgent1 carPat2 note carTeam2 carWard 0
+carPat1 carPat2HR read carWard HR carPat2 carTeam2 carWard 0
+carPat1 carPat2HR addItem carWard HR carPat2 carTeam2 carWard 0
+carPat1 carPat2HR addNote carWard HR carPat2 carTeam2 carWard 0
+carPat2 oncPat1oncItem read carWard HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+carPat2 oncPat1oncItem addItem carWard HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+carPat2 oncPat1oncItem addNote carWard HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+carPat2 oncPat1nursingItem read carWard HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+carPat2 oncPat1nursingItem addItem carWard HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+carPat2 oncPat1nursingItem addNote carWard HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+carPat2 oncPat1noteItem read carWard HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+carPat2 oncPat1noteItem addItem carWard HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+carPat2 oncPat1noteItem addNote carWard HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+carPat2 oncPat1HR read carWard HR oncPat1 oncTeam1 oncWard 0
+carPat2 oncPat1HR addItem carWard HR oncPat1 oncTeam1 oncWard 0
+carPat2 oncPat1HR addNote carWard HR oncPat1 oncTeam1 oncWard 0
+carPat2 oncPat2oncItem read carWard HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+carPat2 oncPat2oncItem addItem carWard HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+carPat2 oncPat2oncItem addNote carWard HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+carPat2 oncPat2nursingItem read carWard HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+carPat2 oncPat2nursingItem addItem carWard HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+carPat2 oncPat2nursingItem addNote carWard HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+carPat2 oncPat2noteItem read carWard HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+carPat2 oncPat2noteItem addItem carWard HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+carPat2 oncPat2noteItem addNote carWard HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+carPat2 oncPat2HR read carWard HR oncPat2 oncTeam2 oncWard 0
+carPat2 oncPat2HR addItem carWard HR oncPat2 oncTeam2 oncWard 0
+carPat2 oncPat2HR addNote carWard HR oncPat2 oncTeam2 oncWard 0
+carPat2 carPat1carItem read carWard HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+carPat2 carPat1carItem addItem carWard HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+carPat2 carPat1carItem addNote carWard HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+carPat2 carPat1nursingItem read carWard HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+carPat2 carPat1nursingItem addItem carWard HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+carPat2 carPat1nursingItem addNote carWard HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+carPat2 carPat1noteItem read carWard HRitem carPat1 carPat1 note carTeam1 carWard 0
+carPat2 carPat1noteItem addItem carWard HRitem carPat1 carPat1 note carTeam1 carWard 0
+carPat2 carPat1noteItem addNote carWard HRitem carPat1 carPat1 note carTeam1 carWard 0
+carPat2 carPat1HR read carWard HR carPat1 carTeam1 carWard 0
+carPat2 carPat1HR addItem carWard HR carPat1 carTeam1 carWard 0
+carPat2 carPat1HR addNote carWard HR carPat1 carTeam1 carWard 0
+carPat2 carPat2carItem read carWard HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+carPat2 carPat2carItem addItem carWard HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+carPat2 carPat2carItem addNote carWard HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+carPat2 carPat2nursingItem read carWard HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+carPat2 carPat2nursingItem addItem carWard HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+carPat2 carPat2nursingItem addNote carWard HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+carPat2 carPat2noteItem read carWard HRitem carAgent1 carPat2 note carTeam2 carWard 1
+carPat2 carPat2noteItem addItem carWard HRitem carAgent1 carPat2 note carTeam2 carWard 0
+carPat2 carPat2noteItem addNote carWard HRitem carAgent1 carPat2 note carTeam2 carWard 0
+carPat2 carPat2HR read carWard HR carPat2 carTeam2 carWard 0
+carPat2 carPat2HR addItem carWard HR carPat2 carTeam2 carWard 0
+carPat2 carPat2HR addNote carWard HR carPat2 carTeam2 carWard 1
+oncAgent1 oncPat1oncItem read oncPat2 HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+oncAgent1 oncPat1oncItem addItem oncPat2 HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+oncAgent1 oncPat1oncItem addNote oncPat2 HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+oncAgent1 oncPat1nursingItem read oncPat2 HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+oncAgent1 oncPat1nursingItem addItem oncPat2 HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+oncAgent1 oncPat1nursingItem addNote oncPat2 HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+oncAgent1 oncPat1noteItem read oncPat2 HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+oncAgent1 oncPat1noteItem addItem oncPat2 HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+oncAgent1 oncPat1noteItem addNote oncPat2 HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+oncAgent1 oncPat1HR read oncPat2 HR oncPat1 oncTeam1 oncWard 0
+oncAgent1 oncPat1HR addItem oncPat2 HR oncPat1 oncTeam1 oncWard 0
+oncAgent1 oncPat1HR addNote oncPat2 HR oncPat1 oncTeam1 oncWard 0
+oncAgent1 oncPat2oncItem read oncPat2 HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+oncAgent1 oncPat2oncItem addItem oncPat2 HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+oncAgent1 oncPat2oncItem addNote oncPat2 HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+oncAgent1 oncPat2nursingItem read oncPat2 HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+oncAgent1 oncPat2nursingItem addItem oncPat2 HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+oncAgent1 oncPat2nursingItem addNote oncPat2 HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+oncAgent1 oncPat2noteItem read oncPat2 HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 1
+oncAgent1 oncPat2noteItem addItem oncPat2 HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+oncAgent1 oncPat2noteItem addNote oncPat2 HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+oncAgent1 oncPat2HR read oncPat2 HR oncPat2 oncTeam2 oncWard 0
+oncAgent1 oncPat2HR addItem oncPat2 HR oncPat2 oncTeam2 oncWard 0
+oncAgent1 oncPat2HR addNote oncPat2 HR oncPat2 oncTeam2 oncWard 1
+oncAgent1 carPat1carItem read oncPat2 HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+oncAgent1 carPat1carItem addItem oncPat2 HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+oncAgent1 carPat1carItem addNote oncPat2 HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+oncAgent1 carPat1nursingItem read oncPat2 HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+oncAgent1 carPat1nursingItem addItem oncPat2 HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+oncAgent1 carPat1nursingItem addNote oncPat2 HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+oncAgent1 carPat1noteItem read oncPat2 HRitem carPat1 carPat1 note carTeam1 carWard 0
+oncAgent1 carPat1noteItem addItem oncPat2 HRitem carPat1 carPat1 note carTeam1 carWard 0
+oncAgent1 carPat1noteItem addNote oncPat2 HRitem carPat1 carPat1 note carTeam1 carWard 0
+oncAgent1 carPat1HR read oncPat2 HR carPat1 carTeam1 carWard 0
+oncAgent1 carPat1HR addItem oncPat2 HR carPat1 carTeam1 carWard 0
+oncAgent1 carPat1HR addNote oncPat2 HR carPat1 carTeam1 carWard 0
+oncAgent1 carPat2carItem read oncPat2 HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+oncAgent1 carPat2carItem addItem oncPat2 HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+oncAgent1 carPat2carItem addNote oncPat2 HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+oncAgent1 carPat2nursingItem read oncPat2 HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+oncAgent1 carPat2nursingItem addItem oncPat2 HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+oncAgent1 carPat2nursingItem addNote oncPat2 HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+oncAgent1 carPat2noteItem read oncPat2 HRitem carAgent1 carPat2 note carTeam2 carWard 0
+oncAgent1 carPat2noteItem addItem oncPat2 HRitem carAgent1 carPat2 note carTeam2 carWard 0
+oncAgent1 carPat2noteItem addNote oncPat2 HRitem carAgent1 carPat2 note carTeam2 carWard 0
+oncAgent1 carPat2HR read oncPat2 HR carPat2 carTeam2 carWard 0
+oncAgent1 carPat2HR addItem oncPat2 HR carPat2 carTeam2 carWard 0
+oncAgent1 carPat2HR addNote oncPat2 HR carPat2 carTeam2 carWard 0
+oncAgent2 oncPat1oncItem read oncPat2 HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+oncAgent2 oncPat1oncItem addItem oncPat2 HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+oncAgent2 oncPat1oncItem addNote oncPat2 HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+oncAgent2 oncPat1nursingItem read oncPat2 HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+oncAgent2 oncPat1nursingItem addItem oncPat2 HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+oncAgent2 oncPat1nursingItem addNote oncPat2 HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+oncAgent2 oncPat1noteItem read oncPat2 HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+oncAgent2 oncPat1noteItem addItem oncPat2 HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+oncAgent2 oncPat1noteItem addNote oncPat2 HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+oncAgent2 oncPat1HR read oncPat2 HR oncPat1 oncTeam1 oncWard 0
+oncAgent2 oncPat1HR addItem oncPat2 HR oncPat1 oncTeam1 oncWard 0
+oncAgent2 oncPat1HR addNote oncPat2 HR oncPat1 oncTeam1 oncWard 0
+oncAgent2 oncPat2oncItem read oncPat2 HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+oncAgent2 oncPat2oncItem addItem oncPat2 HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+oncAgent2 oncPat2oncItem addNote oncPat2 HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+oncAgent2 oncPat2nursingItem read oncPat2 HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+oncAgent2 oncPat2nursingItem addItem oncPat2 HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+oncAgent2 oncPat2nursingItem addNote oncPat2 HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+oncAgent2 oncPat2noteItem read oncPat2 HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 1
+oncAgent2 oncPat2noteItem addItem oncPat2 HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+oncAgent2 oncPat2noteItem addNote oncPat2 HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+oncAgent2 oncPat2HR read oncPat2 HR oncPat2 oncTeam2 oncWard 0
+oncAgent2 oncPat2HR addItem oncPat2 HR oncPat2 oncTeam2 oncWard 0
+oncAgent2 oncPat2HR addNote oncPat2 HR oncPat2 oncTeam2 oncWard 1
+oncAgent2 carPat1carItem read oncPat2 HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+oncAgent2 carPat1carItem addItem oncPat2 HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+oncAgent2 carPat1carItem addNote oncPat2 HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+oncAgent2 carPat1nursingItem read oncPat2 HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+oncAgent2 carPat1nursingItem addItem oncPat2 HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+oncAgent2 carPat1nursingItem addNote oncPat2 HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+oncAgent2 carPat1noteItem read oncPat2 HRitem carPat1 carPat1 note carTeam1 carWard 0
+oncAgent2 carPat1noteItem addItem oncPat2 HRitem carPat1 carPat1 note carTeam1 carWard 0
+oncAgent2 carPat1noteItem addNote oncPat2 HRitem carPat1 carPat1 note carTeam1 carWard 0
+oncAgent2 carPat1HR read oncPat2 HR carPat1 carTeam1 carWard 0
+oncAgent2 carPat1HR addItem oncPat2 HR carPat1 carTeam1 carWard 0
+oncAgent2 carPat1HR addNote oncPat2 HR carPat1 carTeam1 carWard 0
+oncAgent2 carPat2carItem read oncPat2 HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+oncAgent2 carPat2carItem addItem oncPat2 HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+oncAgent2 carPat2carItem addNote oncPat2 HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+oncAgent2 carPat2nursingItem read oncPat2 HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+oncAgent2 carPat2nursingItem addItem oncPat2 HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+oncAgent2 carPat2nursingItem addNote oncPat2 HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+oncAgent2 carPat2noteItem read oncPat2 HRitem carAgent1 carPat2 note carTeam2 carWard 0
+oncAgent2 carPat2noteItem addItem oncPat2 HRitem carAgent1 carPat2 note carTeam2 carWard 0
+oncAgent2 carPat2noteItem addNote oncPat2 HRitem carAgent1 carPat2 note carTeam2 carWard 0
+oncAgent2 carPat2HR read oncPat2 HR carPat2 carTeam2 carWard 0
+oncAgent2 carPat2HR addItem oncPat2 HR carPat2 carTeam2 carWard 0
+oncAgent2 carPat2HR addNote oncPat2 HR carPat2 carTeam2 carWard 0
+carAgent1 oncPat1oncItem read carPat2 HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+carAgent1 oncPat1oncItem addItem carPat2 HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+carAgent1 oncPat1oncItem addNote carPat2 HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+carAgent1 oncPat1nursingItem read carPat2 HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+carAgent1 oncPat1nursingItem addItem carPat2 HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+carAgent1 oncPat1nursingItem addNote carPat2 HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+carAgent1 oncPat1noteItem read carPat2 HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+carAgent1 oncPat1noteItem addItem carPat2 HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+carAgent1 oncPat1noteItem addNote carPat2 HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+carAgent1 oncPat1HR read carPat2 HR oncPat1 oncTeam1 oncWard 0
+carAgent1 oncPat1HR addItem carPat2 HR oncPat1 oncTeam1 oncWard 0
+carAgent1 oncPat1HR addNote carPat2 HR oncPat1 oncTeam1 oncWard 0
+carAgent1 oncPat2oncItem read carPat2 HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+carAgent1 oncPat2oncItem addItem carPat2 HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+carAgent1 oncPat2oncItem addNote carPat2 HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+carAgent1 oncPat2nursingItem read carPat2 HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+carAgent1 oncPat2nursingItem addItem carPat2 HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+carAgent1 oncPat2nursingItem addNote carPat2 HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+carAgent1 oncPat2noteItem read carPat2 HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+carAgent1 oncPat2noteItem addItem carPat2 HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+carAgent1 oncPat2noteItem addNote carPat2 HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+carAgent1 oncPat2HR read carPat2 HR oncPat2 oncTeam2 oncWard 0
+carAgent1 oncPat2HR addItem carPat2 HR oncPat2 oncTeam2 oncWard 0
+carAgent1 oncPat2HR addNote carPat2 HR oncPat2 oncTeam2 oncWard 0
+carAgent1 carPat1carItem read carPat2 HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+carAgent1 carPat1carItem addItem carPat2 HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+carAgent1 carPat1carItem addNote carPat2 HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+carAgent1 carPat1nursingItem read carPat2 HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+carAgent1 carPat1nursingItem addItem carPat2 HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+carAgent1 carPat1nursingItem addNote carPat2 HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+carAgent1 carPat1noteItem read carPat2 HRitem carPat1 carPat1 note carTeam1 carWard 0
+carAgent1 carPat1noteItem addItem carPat2 HRitem carPat1 carPat1 note carTeam1 carWard 0
+carAgent1 carPat1noteItem addNote carPat2 HRitem carPat1 carPat1 note carTeam1 carWard 0
+carAgent1 carPat1HR read carPat2 HR carPat1 carTeam1 carWard 0
+carAgent1 carPat1HR addItem carPat2 HR carPat1 carTeam1 carWard 0
+carAgent1 carPat1HR addNote carPat2 HR carPat1 carTeam1 carWard 0
+carAgent1 carPat2carItem read carPat2 HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+carAgent1 carPat2carItem addItem carPat2 HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+carAgent1 carPat2carItem addNote carPat2 HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+carAgent1 carPat2nursingItem read carPat2 HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+carAgent1 carPat2nursingItem addItem carPat2 HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+carAgent1 carPat2nursingItem addNote carPat2 HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+carAgent1 carPat2noteItem read carPat2 HRitem carAgent1 carPat2 note carTeam2 carWard 1
+carAgent1 carPat2noteItem addItem carPat2 HRitem carAgent1 carPat2 note carTeam2 carWard 0
+carAgent1 carPat2noteItem addNote carPat2 HRitem carAgent1 carPat2 note carTeam2 carWard 0
+carAgent1 carPat2HR read carPat2 HR carPat2 carTeam2 carWard 0
+carAgent1 carPat2HR addItem carPat2 HR carPat2 carTeam2 carWard 0
+carAgent1 carPat2HR addNote carPat2 HR carPat2 carTeam2 carWard 1
+carAgent2 oncPat1oncItem read carPat2 HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+carAgent2 oncPat1oncItem addItem carPat2 HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+carAgent2 oncPat1oncItem addNote carPat2 HRitem oncDoc1 oncPat1 oncology oncTeam1 oncWard 0
+carAgent2 oncPat1nursingItem read carPat2 HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+carAgent2 oncPat1nursingItem addItem carPat2 HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+carAgent2 oncPat1nursingItem addNote carPat2 HRitem oncNurse2 oncPat1 nursing oncTeam1 oncWard 0
+carAgent2 oncPat1noteItem read carPat2 HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+carAgent2 oncPat1noteItem addItem carPat2 HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+carAgent2 oncPat1noteItem addNote carPat2 HRitem oncPat1 oncPat1 note oncTeam1 oncWard 0
+carAgent2 oncPat1HR read carPat2 HR oncPat1 oncTeam1 oncWard 0
+carAgent2 oncPat1HR addItem carPat2 HR oncPat1 oncTeam1 oncWard 0
+carAgent2 oncPat1HR addNote carPat2 HR oncPat1 oncTeam1 oncWard 0
+carAgent2 oncPat2oncItem read carPat2 HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+carAgent2 oncPat2oncItem addItem carPat2 HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+carAgent2 oncPat2oncItem addNote carPat2 HRitem doc1 oncPat2 oncology oncTeam2 oncWard 0
+carAgent2 oncPat2nursingItem read carPat2 HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+carAgent2 oncPat2nursingItem addItem carPat2 HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+carAgent2 oncPat2nursingItem addNote carPat2 HRitem oncNurse1 oncPat2 nursing oncTeam2 oncWard 0
+carAgent2 oncPat2noteItem read carPat2 HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+carAgent2 oncPat2noteItem addItem carPat2 HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+carAgent2 oncPat2noteItem addNote carPat2 HRitem oncAgent1 oncPat2 note oncTeam2 oncWard 0
+carAgent2 oncPat2HR read carPat2 HR oncPat2 oncTeam2 oncWard 0
+carAgent2 oncPat2HR addItem carPat2 HR oncPat2 oncTeam2 oncWard 0
+carAgent2 oncPat2HR addNote carPat2 HR oncPat2 oncTeam2 oncWard 0
+carAgent2 carPat1carItem read carPat2 HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+carAgent2 carPat1carItem addItem carPat2 HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+carAgent2 carPat1carItem addNote carPat2 HRitem carDoc2 carPat1 cardiology carTeam1 carWard 0
+carAgent2 carPat1nursingItem read carPat2 HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+carAgent2 carPat1nursingItem addItem carPat2 HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+carAgent2 carPat1nursingItem addNote carPat2 HRitem carNurse1 carPat1 nursing carTeam1 carWard 0
+carAgent2 carPat1noteItem read carPat2 HRitem carPat1 carPat1 note carTeam1 carWard 0
+carAgent2 carPat1noteItem addItem carPat2 HRitem carPat1 carPat1 note carTeam1 carWard 0
+carAgent2 carPat1noteItem addNote carPat2 HRitem carPat1 carPat1 note carTeam1 carWard 0
+carAgent2 carPat1HR read carPat2 HR carPat1 carTeam1 carWard 0
+carAgent2 carPat1HR addItem carPat2 HR carPat1 carTeam1 carWard 0
+carAgent2 carPat1HR addNote carPat2 HR carPat1 carTeam1 carWard 0
+carAgent2 carPat2carItem read carPat2 HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+carAgent2 carPat2carItem addItem carPat2 HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+carAgent2 carPat2carItem addNote carPat2 HRitem doc2 carPat2 cardiology carTeam2 carWard 0
+carAgent2 carPat2nursingItem read carPat2 HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+carAgent2 carPat2nursingItem addItem carPat2 HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+carAgent2 carPat2nursingItem addNote carPat2 HRitem carNurse2 carPat2 nursing carTeam2 carWard 0
+carAgent2 carPat2noteItem read carPat2 HRitem carAgent1 carPat2 note carTeam2 carWard 1
+carAgent2 carPat2noteItem addItem carPat2 HRitem carAgent1 carPat2 note carTeam2 carWard 0
+carAgent2 carPat2noteItem addNote carPat2 HRitem carAgent1 carPat2 note carTeam2 carWard 0
+carAgent2 carPat2HR read carPat2 HR carPat2 carTeam2 carWard 0
+carAgent2 carPat2HR addItem carPat2 HR carPat2 carTeam2 carWard 0
+carAgent2 carPat2HR addNote carPat2 HR carPat2 carTeam2 carWard 1
