@@ -1,7 +1,7 @@
 import configparser
 
 config = configparser.ConfigParser()
-config.read(r"C:\Users\Sathya\OneDrive\Desktop\BTP\spring_sem\access_control\config.ini")
+config.read(r"C:\Users\Asus\OneDrive - iitkgp.ac.in\Semester 7\BTP\ABAC---dataset-creator\access_control\config.ini")
 
 n1 = int(config["NUMBERS"]["n1"])
 n2 = int(config["NUMBERS"]["n2"])

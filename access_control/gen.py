@@ -50,14 +50,14 @@ data = {
     "OV": OV,
     "EV": EV
 }
-with open(r'C:\Users\Sathya\OneDrive\Desktop\BTP\spring_sem\access_control\output.json', 'w') as f:
+with open(r'C:\Users\Asus\OneDrive - iitkgp.ac.in\Semester 7\BTP\ABAC---dataset-creator\access_control\output.json', 'w') as f:
     json.dump(data, f, indent=4)
 
 # RULE GENERATION FUNCTION
 rules = gen_rules.generate_rules_half(N, n4, n5, n6, SA_values, OA_values, EA_values) # STAR PROB = 0.5
 
 # WRITE RULES TO .TXT FILE
-with open(r"C:\Users\Sathya\OneDrive\Desktop\BTP\spring_sem\access_control\rules_temp.txt", "w") as file:
+with open(r"C:\Users\Asus\OneDrive - iitkgp.ac.in\Semester 7\BTP\ABAC---dataset-creator\access_control\rules_temp.txt", "w") as file:
     for rule in rules:
         file.write(rule + "\n")
 
@@ -92,7 +92,7 @@ fill_matrix(A, SV, OV, EV, rules, n1, n2, n3)
 print("No. of ones in ACM : ", no_of_ones)
 
 # WRITE ACCESS CONTROL MATRIX TO FILE
-with open(r"C:\Users\Sathya\OneDrive\Desktop\BTP\spring_sem\access_control\ACM.txt", "w") as file:
+with open(r"C:\Users\Asus\OneDrive - iitkgp.ac.in\Semester 7\BTP\ABAC---dataset-creator\access_control\ACM.txt", "w") as file:
     for i in range(config.n1):
         for row in A[i]:
             file.write(" ".join(map(str, row)) + "\n")
@@ -111,6 +111,6 @@ def prepare_access_data(S, O, E, SV, OV, EV, A):
 access_data = prepare_access_data(S, O, E, SV, OV, EV, A)
 
 # WRITE ACCESS DATA TO FILE
-with open(r"C:\Users\Sathya\OneDrive\Desktop\BTP\spring_sem\access_control\access_data.txt", "w") as file:
+with open(r"C:\Users\Asus\OneDrive - iitkgp.ac.in\Semester 7\BTP\ABAC---dataset-creator\access_control\access_data.txt", "w") as file:
     for row in access_data:
         file.write(" ".join(map(str, row)) + "\n")

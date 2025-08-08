@@ -73,7 +73,7 @@ def policy_mining(access_data, attributes):
     return recursive_policy_mining(access_data, attributes, [])
 
 access_data = []
-with open(r"C:\Users\Sathya\OneDrive\Desktop\BTP\spring_sem\access_control\access_data.txt", "r") as file:
+with open(r"C:\Users\Asus\OneDrive - iitkgp.ac.in\Semester 7\BTP\ABAC---dataset-creator\access_control\access_data.txt", "r") as file:
     for line in file:
         access_data.append(line.strip().split())
 
@@ -83,7 +83,7 @@ access_data = [[int(x) if x.isdigit() else x for x in row] for row in access_dat
 policy = policy_mining(access_data, attributes)
 
 # WRITE POLICY TO FILE
-with open(r"C:\Users\Sathya\OneDrive\Desktop\BTP\spring_sem\access_control\rules.txt", "w") as file:
+with open(r"C:\Users\Asus\OneDrive - iitkgp.ac.in\Semester 7\BTP\ABAC---dataset-creator\access_control\rules.txt", "w") as file:
     for rule in policy:
         file.write(str(rule) + "\n")
     file.write("\n")

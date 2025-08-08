@@ -2,7 +2,7 @@ import config
 import ast
 import json
 
-with open(r'C:\Users\Sathya\OneDrive\Desktop\BTP\spring_sem\access_control\output.json', 'r') as f:
+with open(r'C:\Users\Asus\OneDrive - iitkgp.ac.in\Semester 7\BTP\ABAC---dataset-creator\access_control\output.json', 'r') as f:
     data = json.load(f)
 
 SV = data["SV"]
@@ -22,7 +22,7 @@ N = config.n
 
 # INPUT MATRIX A1
 A1 = []
-with open(r"C:\Users\Sathya\OneDrive\Desktop\BTP\spring_sem\access_control\ACM.txt", "r") as file:
+with open(r"C:\Users\Asus\OneDrive - iitkgp.ac.in\Semester 7\BTP\ABAC---dataset-creator\access_control\ACM.txt", "r") as file:
     matrix = []
     for line in file:
         line = line.strip()
@@ -52,7 +52,7 @@ def satisfies_rule(rule, SA1, OA1, EA1):
 
 # READ RULES FROM FILE
 rules = []
-with open(r"C:\Users\Sathya\OneDrive\Desktop\BTP\spring_sem\access_control\rules.txt", "r") as file:
+with open(r"C:\Users\Asus\OneDrive - iitkgp.ac.in\Semester 7\BTP\ABAC---dataset-creator\access_control\rules.txt", "r") as file:
     for line in file:
         line = line.strip()
         if line:
@@ -89,7 +89,7 @@ fill_matrix(A2, SV, OV, EV, rules, n1, n2, n3)
 # print(A2)
 
 # WRITE ACCESS CONTROL MATRIX TO FILE
-with open(r"C:\Users\Sathya\OneDrive\Desktop\BTP\spring_sem\access_control\ACM2.txt", "w") as file:
+with open(r"C:\Users\Asus\OneDrive - iitkgp.ac.in\Semester 7\BTP\ABAC---dataset-creator\access_control\ACM2.txt", "w") as file:
     for i in range(config.n1):
         for row in A2[i]:
             file.write(" ".join(map(str, row)) + "\n")

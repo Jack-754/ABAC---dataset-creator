@@ -176,7 +176,7 @@ def generate_rules_weighted_1(N, n4, n5, n6, SV, OV, EV, star_weight=1):
 
         # Generate SA attributes
         for i in range(1, n4 + 1):
-            rule_parts.append(f"SA_{i} = {choose_weighted(SA_values_, SA_weights_)}")
+             rule_parts.append(f"SA_{i} = {choose_weighted(SA_values_, SA_weights_)}")
 
         # Generate OA attributes
         for i in range(1, n5 + 1):

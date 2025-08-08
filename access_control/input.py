@@ -14,11 +14,11 @@ def write_config_file(n1, n2, n3, n4, n5, n6, subject_attributes, object_attribu
 
     config['RULES'] = {'N': str(N)}
     
-    with open(r"C:\Users\Sathya\OneDrive\Desktop\BTP\spring_sem\access_control\config.ini", 'w') as configfile:
+    with open(r"C:\Users\Asus\OneDrive - iitkgp.ac.in\Semester 7\BTP\ABAC---dataset-creator\access_control\config.ini", 'w') as configfile:
         config.write(configfile)
 
 def read_input_file():
-    with open(r"C:\Users\Sathya\OneDrive\Desktop\BTP\spring_sem\access_control\input.txt", "r") as file:
+    with open(r"C:\Users\Asus\OneDrive - iitkgp.ac.in\Semester 7\BTP\ABAC---dataset-creator\access_control\input.txt", "r") as file:
         lines = file.readlines()
         return lines
 
